@@ -65,8 +65,8 @@
     "name": "Imperio Islámico",
       "leaderName": "Al-Ma'mún",
       "adjective": ["Islamista"],
-      "outerColor": [10,10,100],
-      "innerColor": [100,10,100],
+      "outerColor": [39,126,205],
+      "innerColor": [255,255,255],
 
       "startBias": ["Mountain"],
       "preferredVictoryType": "Scientific",
