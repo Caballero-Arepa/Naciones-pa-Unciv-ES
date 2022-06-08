@@ -61,35 +61,33 @@
 
 	  "cities": ["Capital","city","cities","city"]
   },
-/*  {
-    "name": "Civ3",
-	  "leaderName": "Leader Name",
-	  "adjective": ["Civilian"],
-	  "cityStateType": "Type",
-	  "outerColor": [3,2,1],
-	  "innerColor": [1,2,3],
+  {
+    "name": "Carclecia",
+	  "leaderName": "Juan Manuel De Carclecia",
+	  "outerColor": [218, 19, 19],
+	  "innerColor": [0,0,0],
 
-	  "startBias": ["terrains"],
-	  "preferredVictoryType": "Victory type",
-	  "favoredReligion": "religio",
+	  "startBias": ["Tundra", "Coast"],
+	  "preferredVictoryType": "Cientific",
+	  "favoredReligion": "Christianity",
 
-  	"startIntroPart1": "intro",
-  	"startIntroPart2": "close",
+  	"startIntroPart1": "Mi nombre es Juan Manuel, espero tener sabiduría al dirigir esta nación y dar una batalla digna antes de morir, ser pacifista será la mejor opción, también será tener muchos aliados.",
+  	//"startIntroPart2": "close",
  
-	  "introduction": "Speech?",
-	  "declaringWar": "Frase",
-  	"attacked": "Frase",
-  	"afterPeace": "Frase",
-  	"defeated": "Speech",
+	  "introduction": "Buenas, me presento, soy Juan Manuel de Carclecia, espero que seamos buenos compañeros",
+	  "declaringWar": "Veo que tendré que enfrentarme contra ti, si quiero un mundo en paz tu no me lo arrebatarás",
+  	"attacked": "Oh! Yo? Que te hice luego, está bien si es lo que quieres... que gane el mejor",
+  	"afterPeace": "Me alegra que hayas podido reflexionar sobre lo que has hecho, buena decisión",
+  	"defeated": "Oh vaya, mi poder no ha sido el suficiente para derrotarte, y ahora, estás feliz?",
 
-  	"neutralHello": "Greetings",
-  	"hateHello": "frase",
+  	"neutralHello": "Buenas, que se le ofrece?",
+  	"hateHello": "Y ahora qué quieres",
 
-  	"tradeRequest": "Asking for trade",
+  	"tradeRequest": "Qué te parece esta oferta? creo que todos ganamos con esto",
 		
   	"uniqueName": "Unique Name",
   	"uniques": ["Nation Unique"],
 
-	  "cities": ["Capital","city","cities","city"]
-  }, */
+	  "cities": ["Cleidomangnia","Gercalia","Trentele","Juanity"]
+  },
 ]
