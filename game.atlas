@@ -1,62 +1,20 @@
 
 game.png
-size: 128, 128
+size: 512, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcon/Armored Car
+LeaderIcons/El Archiduque Arepa
   rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 212, 40
+  size: 164, 164
+  orig: 164, 164
   offset: 0, 0
   index: -1
-UnitIcon/Batterig Ram
+NationIcons/Ducado de Cundinamarca
   rotate: false
   xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcon/Battle Engineer
-  rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcon/Grenadier
-  rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcon/Light Tank
-  rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcon/Reconnaissance Plane
-  rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcon/Siege Tower
-  rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcon/Voltigeur
-  rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
+  size: 200, 200
+  orig: 200, 200
   offset: 0, 0
   index: -1
