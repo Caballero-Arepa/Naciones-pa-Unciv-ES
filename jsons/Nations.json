@@ -39,27 +39,27 @@
 		"innerColor": [255, 144, 0],
 
 	  "startBias": ["Flood plains"],
-/*	  "preferredVictoryType": "Victory type",
-	  "favoredReligion": "religio",
+//	  "preferredVictoryType": "Victory type",
+//	  "favoredReligion": "religio",
 
-  	"startIntroPart1": "intro",
-  	"startIntroPart2": "close",
+  	"startIntroPart1": "Yo veo las cosas de una sola forma cuándo tengo el poder; hay tres vacas, tres son para mí y el pasto es para tí",
+//  	"startIntroPart2": "close",
  
-	  "introduction": "Speech?",
-	  "declaringWar": "Frase",
-  	"attacked": "Frase",
-  	"afterPeace": "Frase",
-  	"defeated": "Speech",
+	  "introduction": "Hola, creo que seremos buenos amigos siempre y cuando no interfieras en mis ambiciones",
+	  "declaringWar": "Si lo vuelves todo más complicado te aseguro ante mi Dios que te hare perder el doble",
+  	"attacked": "Mi querido amigo no sabra usted que yo me dedico exclusivamente a la guerra defensiva?! Suerte",
+  	"afterPeace": "Ya es innecesario tanto conflicto, empezamos a ver al verdadero peligro.",
+  	"defeated": "Está bien me voy pero ten en cuenta que los ojos de mundo estarán encima de ti.",
 
-  	"neutralHello": "Greetings",
-  	"hateHello": "frase",
+  	"neutralHello": ["Que miras?","Si estás dispuesto a pagar más en cualquier momento tendré un taza de café lista para usted","Amigo o amenaza? Dilo de una vez"],
+  	"hateHello": "Cenizas y fuego, sus conceptos que le caerían bien a tu civilización.",
 
-  	"tradeRequest": "Asking for trade", */
+  	"tradeRequest": "Ni pa ti ni pa mi, así suelo comerciar yo.",
 		
   	"uniqueName": "Piedad y Prosperidad",
   	"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"],
 
-	  "cities": ["Ciudad Opawa","city","cities","city"]
+	  "cities": ["Vitala", "Oe", "Ñansu", "Raca"]
   },
   {
     "name": "Carclecia",
@@ -85,8 +85,8 @@
 
   	"tradeRequest": "¿Qué te parece esta oferta? Creo que todos ganamos con esto.",
 		
-  	"uniqueName": "Unique Name",
-  	"uniques": ["Nation Unique"],
+  	"uniqueName": "Libre Decisión De Estudio",
+  	"uniques": ["[+1 Science] [in all cities] <before discovering [Steam Power]>"],
 
 	  "cities": ["Cleidomangnia","Gercalia","Trentele","Juanity"],
   },
