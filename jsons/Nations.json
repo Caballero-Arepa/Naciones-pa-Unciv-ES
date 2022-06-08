@@ -38,7 +38,7 @@
 		"outerColor": [255, 144, 0],
 		"innerColor": [255, 255, 255],
 
-	  "startBias": ["Flooded Plains"],
+	  "startBias": ["Flood plains"],
 /*	  "preferredVictoryType": "Victory type",
 	  "favoredReligion": "religio",
 
