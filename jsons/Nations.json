@@ -24,7 +24,7 @@
 
   	"tradeRequest": "Te ofrezco estas vainitas que tengo por acá.",
 		
-  	"uniqueName": "La Señorial",
+  	"uniqueName": "La Señorial de Arepas",
   	"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[+2 Production, +2 Food, +2 Culture] from every [Mountain]",
                 ],
 
@@ -35,10 +35,10 @@
     "name": "Opawa",
 	  "leaderName": "Alejo",
 //	  "adjective": ["Civilian"],
-		"outerColor": [255, 144, 0],
-		"innerColor": [255, 255, 255],
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 144, 0],
 
-	  "startBias": ["Flooded Plains"],
+	  "startBias": ["Flood plains"],
 /*	  "preferredVictoryType": "Victory type",
 	  "favoredReligion": "religio",
 
@@ -59,7 +59,7 @@
   	"uniqueName": "Piedad y Prosperidad",
   	"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"],
 
-	  "cities": ["Capital","city","cities","city"]
+	  "cities": ["Ciudad Opawa","city","cities","city"]
   },
   {
     "name": "Carclecia",
@@ -68,7 +68,7 @@
 	  "innerColor": [0,0,0],
 
 	  "startBias": ["Tundra", "Coast"],
-	  "preferredVictoryType": "Cientific",
+	  "preferredVictoryType": "Scientific",
 	  "favoredReligion": "Christianity",
 
   	"startIntroPart1": "Mi nombre es Juan Manuel, espero tener sabiduría al dirigir esta nación y dar una batalla digna antes de morir, ser pacifista será la mejor opción, también será tener muchos aliados.",
@@ -80,14 +80,41 @@
   	"afterPeace": "Me alegra que hayas podido reflexionar sobre lo que has hecho, buena decisión",
   	"defeated": "Oh vaya, mi poder no ha sido el suficiente para derrotarte, y ahora, estás feliz?",
 
-  	"neutralHello": "Buenas, que se le ofrece?",
+  	"neutralHello": "Buenas, ¿que se le ofrece?",
   	"hateHello": "Y ahora qué quieres",
 
-  	"tradeRequest": "Qué te parece esta oferta? creo que todos ganamos con esto",
+  	"tradeRequest": "¿Qué te parece esta oferta? Creo que todos ganamos con esto.",
 		
   	"uniqueName": "Unique Name",
   	"uniques": ["Nation Unique"],
 
-	  "cities": ["Cleidomangnia","Gercalia","Trentele","Juanity"]
+	  "cities": ["Cleidomangnia","Gercalia","Trentele","Juanity"],
   },
+{
+    "name": "Imperio Islámico",
+      "leaderName": "Al-Ma'mún",
+      "adjective": ["Islamista"],
+      "outerColor": [39,126,205],
+      "innerColor": [255,255,255],
+
+      "startBias": ["Mountain"],
+      "preferredVictoryType": "Scientific",
+ 
+      "introduction": "Que las bendiciones de Allah sean contigo.",
+      "declaringWar": "No podemos tolerar más las injusticias de su mandato, liberaremos a su pueblo en el nombre de Allah",
+      "attacked": "Debe haber una solución pacifica a este conflicto.",
+      "afterPeace": "La paz, las bendiciones y la misericordia de Allah estén contigo.",
+      "defeated": "Allahu Akbar (Allah es el Más Grande).",
+
+      "neutralHello": "Que las bendiciones de Allah sean contigo.",
+      "hateHello": "Que las bendiciones de Allah sean contigo.",
+
+      "tradeRequest": "Es mejor perder algo material por Allah que perder a Allah por algo material.",
+
+      "uniqueName": "El centro de la ciencia",
+      "uniques": ["[+10]% Production when constructing [All] wonders [in all cities]","[+2 Production, +2 Food, +2 Science] from every [Mountain]",
+                ],
+
+      "cities": ["La Meca","Aleppo","Damasco","Bagdad","El Cairo","Córdoba","Samarcanda","Taskent","Jartun","Palermo","Argel",]
+  }, 
 ]

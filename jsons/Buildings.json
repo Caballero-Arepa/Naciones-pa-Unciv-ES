@@ -1,3 +1,66 @@
 [
-
+	{
+		"name": "Stele",
+		"replaces": "Monument",
+		"uniqueTo": "Opawa",
+		"culture": 2,
+		"faith": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Sweet",
+		"replaces": "Water Mill",
+		"uniqueTo": "Opawa",
+		"maintenance": 3,
+		"food": 3,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [Fresh Water]","[+1 Food] from every [Flood plains] <before discovering [Civil Service]>"],
+		"requiredTech": "The Wheel"
+	},
+	{
+		"name": "Casa del Saber",
+		"replaces": "Library",
+		"uniqueTo": "Imperio Islámico",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]","[+5]% [Science] from Trade Routes"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Bismaritán",
+		"replaces": "Hospital",
+		"uniqueTo": "Imperio Islámico",
+		"food": 5,
+		"requiredBuilding": "Aqueduct",
+		"hurryCostModifier": 0,
+		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
+		"requiredTech": "Biology"
+	},
+	{
+		"name": "Bazar",
+		"replaces": "Market",
+		"uniqueTo": "Imperio Islámico",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
+			"[+1 Faith, +1 Production] from [Sugar] tiles [in this city]","[+1 Faith, +1 Production] from [Spices] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Rotación de Cultivos",
+		"replaces": "Water Mill",
+		"uniqueTo": "Imperio Islámico",
+		"food": 2,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[+10]% [Food]","[+5]% [Production]"],
+		"requiredTech": "The Wheel"
+	},
 ]
