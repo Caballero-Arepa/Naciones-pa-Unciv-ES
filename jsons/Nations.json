@@ -24,7 +24,7 @@
 
   	"tradeRequest": "Te ofrezco estas vainitas que tengo por acá.",
 		
-  	"uniqueName": "La Señorial",
+  	"uniqueName": "La Señorial de Arepas",
   	"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[+2 Production, +2 Food, +2 Culture] from every [Mountain]",
                 ],
 
@@ -59,37 +59,33 @@
   	"uniqueName": "Piedad y Prosperidad",
   	"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"],
 
-	  "cities": ["Capital","city","cities","city"]
+	  "cities": ["Ciudad Opawa","city","cities","city"]
   },
-/*  {
-    "name": "Civ3",
-	  "leaderName": "Leader Name",
-	  "adjective": ["Civilian"],
-	  "cityStateType": "Type",
-	  "outerColor": [3,2,1],
-	  "innerColor": [1,2,3],
+  {
+    "name": "Imperio Islámico",
+      "leaderName": "Al-Ma'mún",
+      "adjective": ["Islamista"],
+      "outerColor": [10,10,100],
+      "innerColor": [100,10,100],
 
-	  "startBias": ["terrains"],
-	  "preferredVictoryType": "Victory type",
-	  "favoredReligion": "religio",
-
-  	"startIntroPart1": "intro",
-  	"startIntroPart2": "close",
+      "startBias": ["Mountain"],
+      "preferredVictoryType": "Scientific",
  
-	  "introduction": "Speech?",
-	  "declaringWar": "Frase",
-  	"attacked": "Frase",
-  	"afterPeace": "Frase",
-  	"defeated": "Speech",
+      "introduction": "Que las bendiciones de Allah sean contigo.",
+      "declaringWar": "No podemos tolerar más las injusticias de su mandato, liberaremos a su pueblo en el nombre de Allah",
+      "attacked": "Debe haber una solución pacifica a este conflicto.",
+      "afterPeace": "La paz, las bendiciones y la misericordia de Allah estén contigo.",
+      "defeated": "Allahu Akbar (Allah es el Más Grande).",
 
-  	"neutralHello": "Greetings",
-  	"hateHello": "frase",
+      "neutralHello": "Que las bendiciones de Allah sean contigo.",
+      "hateHello": "Que las bendiciones de Allah sean contigo.",
 
-  	"tradeRequest": "Asking for trade",
-		
-  	"uniqueName": "Unique Name",
-  	"uniques": ["Nation Unique"],
+      "tradeRequest": "Es mejor perder algo material por Allah que perder a Allah por algo material.",
 
-	  "cities": ["Capital","city","cities","city"]
-  }, */
+      "uniqueName": "El centro de la ciencia",
+      "uniques": ["[+10]% Production when constructing [All] wonders [in all cities]","[+2 Production, +2 Food, +2 Science] from every [Mountain]",
+                ],
+
+      "cities": ["La Meca","Aleppo","Damasco","Bagdad","El Cairo","Córdoba","Samarcanda","Taskent","Jartun","Palermo","Argel",]
+  }, 
 ]
