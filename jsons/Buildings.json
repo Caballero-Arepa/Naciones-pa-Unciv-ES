@@ -60,8 +60,7 @@
 		"production": 1,
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"percentStatBonus": {"food": 10},
-		"percentStatBonus": {"production": 5},
+		"uniques": ["[+10]% [Food]","[+5]% [Production]"],
 		"requiredTech": "The Wheel"
 	},
 ]
