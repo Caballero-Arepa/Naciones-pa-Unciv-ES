@@ -61,7 +61,7 @@
 
 	  "cities": ["Capital","city","cities","city"]
   },
-  {
+/*  {
     "name": "Civ3",
 	  "leaderName": "Leader Name",
 	  "adjective": ["Civilian"],
@@ -91,5 +91,5 @@
   	"uniques": ["Nation Unique"],
 
 	  "cities": ["Capital","city","cities","city"]
-  },
+  }, */
 ]
