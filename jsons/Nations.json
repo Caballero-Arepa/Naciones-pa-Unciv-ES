@@ -51,7 +51,7 @@
   	"afterPeace": "Ya es innecesario tanto conflicto, empezamos a ver al verdadero peligro.",
   	"defeated": "Está bien me voy pero ten en cuenta que los ojos de mundo estarán encima de ti.",
 
-  	"neutralHello": ["Que miras?","Si estás dispuesto a pagar más en cualquier momento tendré un taza de café lista para usted","Amigo o amenaza? Dilo de una vez"],
+  	"neutralHello": "Amigo o amenaza? Dilo de una vez",
   	"hateHello": "Cenizas y fuego, sus conceptos que le caerían bien a tu civilización.",
 
   	"tradeRequest": "Ni pa ti ni pa mi, así suelo comerciar yo.",
