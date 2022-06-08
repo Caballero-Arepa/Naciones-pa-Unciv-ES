@@ -1,3 +1,95 @@
 [
+  {
+    "name": "Ducado de Cundinamarca",
+	  "leaderName": "El Archiduque Arepa",
+	  "adjective": ["Cundinamarqués"],
+	  "outerColor": [1,57,150],
+	  "innerColor": [173,161,161],
 
+	  "startBias": ["Mountain"],
+	  "preferredVictoryType": "Cultural",
+//	  "favoredReligion": "religio",
+
+//  	"startIntroPart1": "intro",
+//  	"startIntroPart2": "close",
+ 
+	  "introduction": "Buenas su persona, ¿cómo se topa? ¿Le invito a una aguapanelita?",
+	  "declaringWar": "La cosa se puso chusca, bien chusca para ustéd. Amarrese los pantalones y pongase a rezar.",
+  	"attacked": "Yo me le mido a lo que sea, porque soy el más massimo, no le tengo miedo... ¡Aiudaaaaaaa!",
+  	"afterPeace": "Ja ja se te regó el chocolate caliente ensima ja ja.",
+  	"defeated": "Vamos de aquí, no te juntes con esa chusma.",
+
+  	"neutralHello": "Bueenas su mercé",
+  	"hateHello": "¿Qué quiere gran hijuemadre?",
+
+  	"tradeRequest": "Te ofrezco estas vainitas que tengo por acá.",
+		
+  	"uniqueName": "La Señorial",
+  	"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[+2 Production, +2 Food, +2 Culture] from every [Mountain]",
+                ],
+
+	  "cities": ["Fusagasugá","Zipaquirá","Soacha","Chocontá","Villa Pinzón","Tocancipá","Sesquilé","Mosquera","Sasaima","Anapoima","Girardot","Ricaute",
+               "Choachí","Ubaté","Machetá",]
+  },
+  {
+    "name": "Opawa",
+	  "leaderName": "Alejo",
+//	  "adjective": ["Civilian"],
+		"outerColor": [255, 144, 0],
+		"innerColor": [255, 255, 255],
+
+	  "startBias": ["Flooded Plains"],
+/*	  "preferredVictoryType": "Victory type",
+	  "favoredReligion": "religio",
+
+  	"startIntroPart1": "intro",
+  	"startIntroPart2": "close",
+ 
+	  "introduction": "Speech?",
+	  "declaringWar": "Frase",
+  	"attacked": "Frase",
+  	"afterPeace": "Frase",
+  	"defeated": "Speech",
+
+  	"neutralHello": "Greetings",
+  	"hateHello": "frase",
+
+  	"tradeRequest": "Asking for trade", */
+		
+  	"uniqueName": "Piedad y Prosperidad",
+  	"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"],
+
+	  "cities": ["Capital","city","cities","city"]
+  },
+  {
+    "name": "Civ3",
+	  "leaderName": "Leader Name",
+	  "adjective": ["Civilian"],
+	  "cityStateType": "Type",
+	  "outerColor": [3,2,1],
+	  "innerColor": [1,2,3],
+
+	  "startBias": ["terrains"],
+	  "preferredVictoryType": "Victory type",
+	  "favoredReligion": "religio",
+
+  	"startIntroPart1": "intro",
+  	"startIntroPart2": "close",
+ 
+	  "introduction": "Speech?",
+	  "declaringWar": "Frase",
+  	"attacked": "Frase",
+  	"afterPeace": "Frase",
+  	"defeated": "Speech",
+
+  	"neutralHello": "Greetings",
+  	"hateHello": "frase",
+
+  	"tradeRequest": "Asking for trade",
+		
+  	"uniqueName": "Unique Name",
+  	"uniques": ["Nation Unique"],
+
+	  "cities": ["Capital","city","cities","city"]
+  },
 ]
