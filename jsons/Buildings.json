@@ -1,3 +1,25 @@
 [
+	{
+		"name": "Stele",
+		"replaces": "Monument",
+		"uniqueTo": "Opawa",
+		"culture": 2,
+		"faith": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Shadoof",
+		"replaces": "Water Mill",
+		"uniqueTo": "Opawa",
+		"maintenance": 3,
+		"food": 3,
+		"production": 1,
+		"hurryCostModifier": 25,
+		"uniques": ["Must be on [Fresh Water]","[+1 Food] from every [Flood plains] <before discovering [Civil Service]>"],
+		"requiredTech": "The Wheel"
+	},
 
 ]

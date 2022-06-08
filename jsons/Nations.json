@@ -35,8 +35,8 @@
     "name": "Opawa",
 	  "leaderName": "Alejo",
 //	  "adjective": ["Civilian"],
-		"outerColor": [255, 144, 0],
-		"innerColor": [255, 255, 255],
+		"outerColor": [255, 255, 255],
+		"innerColor": [255, 144, 0],
 
 	  "startBias": ["Flood plains"],
 /*	  "preferredVictoryType": "Victory type",

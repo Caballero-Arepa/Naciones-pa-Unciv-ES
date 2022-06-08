@@ -1,3 +1,18 @@
 [
+	{
+		"name": "Chu-Ko-Nu",
+		"unitType": "Archery",
+		"uniqueTo": "Opawa",
+		"movement": 2,
+		"strength": 12,
+		"rangedStrength": 14,
+		"replaces": "Crossbowman",
+		"cost": 125,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["Logistics"],
+		"attackSound": "arrow"
+	},
 
 ]
