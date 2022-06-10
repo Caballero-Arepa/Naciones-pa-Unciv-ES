@@ -51,7 +51,7 @@
   	"afterPeace": "Ya es innecesario tanto conflicto, empezamos a ver al verdadero peligro.",
   	"defeated": "Está bien me voy pero ten en cuenta que los ojos de mundo estarán encima de ti.",
 
-  	"neutralHello": Amigo o amenaza? Dilo de una vez",
+  	"neutralHello": "Amigo o amenaza? Dilo de una vez",
   	"hateHello": "Cenizas y fuego, sus conceptos que le caerían bien a tu civilización.",
 
   	"tradeRequest": "Ni pa ti ni pa mi, así suelo comerciar yo.",
@@ -86,7 +86,7 @@
   	"tradeRequest": "Queb rekeb ker? (Que te parece esta oferta?)",
 		
   	"uniqueName": "Turbo Pesca",
-  	"uniques": [""],
+  	"uniques": ["[+2 Food] [in all cities]"],
 
 	  //nombres de ciudades traducidas al español
 	  "cities": ["Pescado","Hielo Pescadil","Pingüineton","Pescado Congelado"],
@@ -117,5 +117,38 @@
                 ],
 
       "cities": ["La Meca","Aleppo","Damasco","Bagdad","El Cairo","Córdoba","Samarcanda","Taskent","Jartun","Palermo","Argel",]
-  }, 
+  },
+{
+    "name": "Sacro Imperio Ruso",
+      "leaderName": "Sergey Taboritsky",
+      "adjective": ["Ruso"],
+      "outerColor": [255,255,255],
+      "innerColor": [250,200,0],
+
+      "startBias": ["Tundra"],
+      "preferredVictoryType": "Domination",
+	
+	"startIntroPart1": "Oh sergey taboritsky, unificador de Rusia despues de su colapso, comandaste grandes batallas desde Komi hasta la lejana Kamchatka pero tus hombres nunca se dieron por vencidos, y ahora que somos victoriosos ante ti nos arrodillamos e imploramos a nuestro señor salvador por nuestra gloria.",
+  	"startIntroPart2": "Oh Gran lider, ¿podrás levantar una gran nación que resista el paso del tiempo?",
+ 
+      "introduction": "Saludos Extranjero, dios te de la bienvenida a la tierra santa del cristianismo ortodoxo.",
+      "declaringWar": "que alguien más te bendiga, por que en esta guerra Dios esta con nosotros.",
+      "attacked": "Tuviste la valentía para declararnos la guerra, pero en el nombre del señor, tú ya estás perdido.",
+      "afterPeace": "Dios le perdone, por que nosotros no lo vamos a hacer.",
+      "defeated": "La tierra de Dios ha caído ante las garras del malévolo, pero algún día, tu reinado sobre Rusia terminará.",
+
+      "neutralHello": "Saludos en el nombre del señor.",
+      "hateHello": "No eres digno de estar aquí.",
+
+      "tradeRequest": "Le ofrezco a usted estos buenos y bendecidos productos.",
+
+      "uniqueName": "Gobierno Teocrático",
+      "uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion","[+1 Faith, +2 Food] from every [Tundra]","[+1 Faith, +2 Food] from every [Snow]"
+                ],
+
+      "cities": ["Syktyvkar","Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
+			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
+			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
+			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"]
+  },
 ]
