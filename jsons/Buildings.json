@@ -100,4 +100,26 @@
 		"uniques": ["[+10]% [Food]","[+5]% [Production]"],
 		"requiredTech": "The Wheel"
 	},
+	//Sacro Imperio Ruso
+	{
+		"name": "Temple",
+		"replaces": "Temple",
+		"uniqueTo": "Sacro Imperio Ruso",
+		"faith": 4,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "Krepost",
+		"replaces": "Barracks",
+		"uniqueTo": "Sacro Imperio Ruso",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
+			"New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
 ]
