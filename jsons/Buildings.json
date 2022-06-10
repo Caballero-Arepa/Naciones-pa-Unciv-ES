@@ -64,7 +64,7 @@
 		"uniqueTo": "Imperio Islámico",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[+1 Science] per [2] population [in this city]","[+2 Science] from each Trade Route"],
+		"uniques": ["[+1 Science] per [2] population [in this city]","[+2 Faith] from each Trade Route"],
 		"requiredTech": "Writing"
 	},
 	{
