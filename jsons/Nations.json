@@ -62,8 +62,8 @@
 	  "cities": ["Vitala", "Oe", "Ñansu", "Raca"]
   },
   {
-    "name": "Carclecia",
-	  "leaderName": "Juan Manuel De Carclecia",
+    "name": "Antártida",
+	  "leaderName": "Cuek Cuëk de Antártida",
 	  "outerColor": [218, 19, 19],
 	  "innerColor": [0,0,0],
 
@@ -71,24 +71,25 @@
 	  "preferredVictoryType": "Scientific",
 	  "favoredReligion": "Christianity",
 
-  	"startIntroPart1": "Mi nombre es Juan Manuel, espero tener sabiduría al dirigir esta nación y dar una batalla digna antes de morir, ser pacifista será la mejor opción, también será tener muchos aliados.",
+  	"startIntroPart1": "Cuek kuebeb setruebek retek (Somos pingüinos dotados, mostraremos nuestro poder)",
   	//"startIntroPart2": "close",
  
-	  "introduction": "Buenas, me presento, soy Juan Manuel de Carclecia, espero que seamos buenos compañeros",
-	  "declaringWar": "Veo que tendré que enfrentarme contra ti, si quiero un mundo en paz tu no me lo arrebatarás",
-  	"attacked": "Oh! Yo? Que te hice luego, está bien si es lo que quieres... que gane el mejor",
-  	"afterPeace": "Me alegra que hayas podido reflexionar sobre lo que has hecho, buena decisión",
-  	"defeated": "Oh vaya, mi poder no ha sido el suficiente para derrotarte, y ahora, estás feliz?",
+	  "introduction": "eEk cuek quekrek kekk caek (Hola, soy Cuek Cuëk un gusto conocerte)",
+	  "declaringWar": "Queb rekeb kelek nelebke (Lo siento, pero así tiene que ser nuestra batalla será legendaria! Buena suerte)",
+  	"attacked": "Cakeb Kelak Nevak? Quenab rakabat pagab! (Oh con que subestimas a los pingüinos eh? Pues sufre las consecuencias!)",
+  	"afterPeace": "Cuek rekeb (Buena elección)",
+  	"defeated": "Cabeb kebreb, pekeb rebeb rabeb sebeb? (Tal vez ahora yo te subestimé a ti, que haras ahora que extinguiste a nuestra raza?)",
 
-  	"neutralHello": "Buenas, ¿que se le ofrece?",
-  	"hateHello": "Y ahora qué quieres",
+  	"neutralHello": "eEk,¿keb sebteb? (Hola, ¿Que se te ofrece?",
+  	"hateHello": "ekeb quebre cabfor? (Que quieres carefoca)",
 
-  	"tradeRequest": "¿Qué te parece esta oferta? Creo que todos ganamos con esto.",
+  	"tradeRequest": "Queb rekeb ker? (Que te parece esta oferta?)",
 		
-  	"uniqueName": "Libre Decisión De Estudio",
-  	"uniques": ["[+1 Science] [in all cities] <before discovering [Steam Power]>"],
+  	"uniqueName": "Turbo Pesca",
+  	"uniques": [""],
 
-	  "cities": ["Cleidomangnia","Gercalia","Trentele","Juanity"],
+	  //nombres de ciudades traducidas al español
+	  "cities": ["Pescado","Hielo Pescadil","Pingüineton","Pescado Congelado"],
   },
 {
     "name": "Imperio Islámico",
