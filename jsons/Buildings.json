@@ -18,7 +18,9 @@
 		"cost": 125,
 		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["[+2 Food, +2 Production] from each Trade Route","[+1 Production] from [Sheep] tiles [in this city]","All newly-trained [relevant] units [in this city] receive the [Mulas de Carga] promotion","Requires a [Monument] in all cities", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
+		"uniques": ["[+2 Food, +2 Production] from each Trade Route","[+1 Production] from [Sheep] tiles [in this city]",
+		"All newly-trained [relevant] units [in this city] receive the [Mulas de Carga] promotion","Requires a [Monument] in all cities",
+		"[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
 		"requiredTech": "Drama and Poetry"
 	},
 	{
@@ -29,7 +31,8 @@
 		"culture": 1,
 		"faith": 8,
 		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [30] per owned city",
-			"[+100]% Natural religion spread [in this city]","[+2 Science] from every [Mountain]","[+1 Faith, +2 Culture] from every [Temple] <within [2] tiles of a [Mountain]>"],
+			"[+100]% Natural religion spread [in this city]","[+2 Science] from every [Mountain]",
+			"[+1 Faith, +2 Culture] from every [Temple] <within [2] tiles of a [Mountain]>"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
