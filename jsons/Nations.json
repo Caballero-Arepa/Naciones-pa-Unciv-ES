@@ -92,7 +92,7 @@
 	  "cities": ["Pescado","Hielo Pescadil","Pingüineton","Pescado Congelado"],
   },
 {
-    "name": "Imperio Islámico",
+    "name": "Imperio Islamico",
       "leaderName": "Al-Ma'mún",
       "adjective": ["Islamista"],
       "outerColor": [39,126,205],
@@ -113,7 +113,7 @@
       "tradeRequest": "Es mejor perder algo material por Allah que perder a Allah por algo material.",
 
       "uniqueName": "El centro de la ciencia",
-      "uniques": ["[+10]% Production when constructing [All] wonders [in all cities]","[+2 Production, +2 Food, +2 Science] from every [Mountain]",
+      "uniques": ["[+10]% Production when constructing [All] wonders [in all cities]","[+2 Production, +2 Food, +2 Science] from every [Mountain]"
                 ],
 
       "cities": ["La Meca","Aleppo","Damasco","Bagdad","El Cairo","Córdoba","Samarcanda","Taskent","Jartun","Palermo","Argel",]

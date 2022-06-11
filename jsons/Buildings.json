@@ -61,7 +61,7 @@
 	{
 		"name": "Casa del Saber",
 		"replaces": "Library",
-		"uniqueTo": "Imperio Islámico",
+		"uniqueTo": "Imperio Islamico",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"faith": 2,
@@ -71,17 +71,16 @@
 	{
 		"name": "Bismaritán",
 		"replaces": "Hospital",
-		"uniqueTo": "Imperio Islámico",
+		"uniqueTo": "Imperio Islamico",
 		"food": 5,
 		"requiredBuilding": "Aqueduct",
-		"hurryCostModifier": 0,
 		"uniques": ["All newly-trained [relevant] units [in this city] receive the [Medic] promotion"],
 		"requiredTech": "Biology"
 	},
 	{
 		"name": "Bazar",
 		"replaces": "Market",
-		"uniqueTo": "Imperio Islámico",
+		"uniqueTo": "Imperio Islamico",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
@@ -93,7 +92,7 @@
 	{
 		"name": "Rotación de Cultivos",
 		"replaces": "Water Mill",
-		"uniqueTo": "Imperio Islámico",
+		"uniqueTo": "Imperio Islamico",
 		"food": 2,
 		"production": 1,
 		"hurryCostModifier": 25,
@@ -103,7 +102,7 @@
 	},
 	//Sacro Imperio Ruso
 	{
-		"name": "Temple",
+		"name": "Templo",
 		"replaces": "Temple",
 		"uniqueTo": "Sacro Imperio Ruso",
 		"faith": 4,
