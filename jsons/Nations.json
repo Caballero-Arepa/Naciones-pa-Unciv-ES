@@ -113,7 +113,7 @@
       "tradeRequest": "Es mejor perder algo material por Allah que perder a Allah por algo material.",
 
       "uniqueName": "El centro de la ciencia",
-      "uniques": ["[+10]% Production when constructing [All] wonders [in all cities]","[+2 Production, +2 Food, +2 Science] from every [Mountain]"
+      "uniques": ["[+10]% Production when constructing [All] wonders [in all cities]","[+2 Production, +2 Food, +1 Science] from every [Mountain]"
                 ],
 
       "cities": ["La Meca","Aleppo","Damasco","Bagdad","El Cairo","Córdoba","Samarcanda","Taskent","Jartun","Palermo","Argel",]
@@ -143,7 +143,7 @@
       "tradeRequest": "Le ofrezco a usted estos buenos y bendecidos productos.",
 
       "uniqueName": "Gobierno Teocrático",
-      "uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion","[+1 Faith, +2 Food] from every [Tundra]","[+1 Faith, +2 Food] from every [Snow]"
+      "uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion","[+1 Faith, +2 Food] from every [Tundra] <starting from the [Medieval era]>","[+1 Faith, +2 Food] from every [Snow] <starting from the [Medieval era]>"
                 ],
 
       "cities": ["Syktyvkar","Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
