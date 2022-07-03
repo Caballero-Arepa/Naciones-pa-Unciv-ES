@@ -3,6 +3,7 @@
 	{
 		"name": "Nut",
 		"replaces": "Farm",
+		"uniqueTo": "Opawa",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
 		"food": 1,
 		"turnsToBuild": 7,
