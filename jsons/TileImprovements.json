@@ -11,7 +11,7 @@
 		"uniques": ["Can also be built on tiles adjacent to fresh water", 
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
-            "Pillaging this improvement yields approximately [+18 Gold]"],
+            "Pillaging this improvement yields approximately [+18 Gold]",
 			"[+2 Culture] for each adjacent [Oasis]"],
 		"shortcutKey": "F"
 	},
