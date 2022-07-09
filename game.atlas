@@ -1,19 +1,26 @@
 
 game.png
-size: 512, 256
+size: 1024, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+LeaderIcons/Al-Ma'mun
+  rotate: false
+  xy: 4, 4
+  size: 345, 418
+  orig: 345, 418
+  offset: 0, 0
+  index: -1
 LeaderIcons/El Archiduque Arepa
   rotate: false
-  xy: 212, 40
+  xy: 357, 50
   size: 164, 164
   orig: 164, 164
   offset: 0, 0
   index: -1
 NationIcons/Ducado de Cundinamarca
   rotate: false
-  xy: 4, 4
+  xy: 357, 222
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
