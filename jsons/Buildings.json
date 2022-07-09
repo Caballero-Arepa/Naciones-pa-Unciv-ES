@@ -1,6 +1,6 @@
 [
 //Cundinamarca
-/*	{
+	{
 		"name": "Fábrica de Ruanas",
 		"replaces": "Shrine",
 		"uniqueTo": "Ducado de Cundinamarca",
@@ -36,7 +36,6 @@
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
-*/
 //Opawa
 	{
 		"name": "Stele",
