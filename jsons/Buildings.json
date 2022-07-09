@@ -1,7 +1,7 @@
 [
 //Cundinamarca
 /*	{
-		"name": "1",
+		"name": "Fábrica de Ruanas",
 		"replaces": "Shrine",
 		"uniqueTo": "Ducado de Cundinamarca",
 		"faith": 1,
@@ -9,7 +9,7 @@
 		"cost": 40,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["[+5]% [Production]","Hidden when religion is disabled"]
+		"uniques": ["[+5]% [Production] <starting from the [Renaissance era]>","Hidden when religion is disabled"]
 	},
 	{
 		"name": "Finca Sabanera",
