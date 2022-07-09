@@ -57,7 +57,7 @@
   	"tradeRequest": "Ni pa ti ni pa mi, así suelo comerciar yo.",
 		
   	"uniqueName": "Piedad y Prosperidad",
-  	"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"],
+  	"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion","Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
 
 	  "cities": ["Vitala", "Oe", "Ñansu", "Raca"]
   },
