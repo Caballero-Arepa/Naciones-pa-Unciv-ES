@@ -25,8 +25,8 @@
   	"tradeRequest": "Te ofrezco estas vainitas que tengo por acá.",
 		
   	"uniqueName": "La Señorial de Arepas",
-  	"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[+2 Production, +2 Food, +2 Culture] from every [Mountain]",
-                ],
+  	"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-50]% maintenance on road & railroads",
+			"No Maintenance costs for improvements in [Hill] tiles"],
 
 	  "cities": ["Fusagasugá","Zipaquirá","Soacha","Chocontá","Villa Pinzón","Tocancipá","Sesquilé","Mosquera","Sasaima","Anapoima","Girardot","Ricaute",
                "Choachí","Ubaté","Machetá",]
