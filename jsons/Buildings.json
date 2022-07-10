@@ -7,7 +7,6 @@
 		"faith": 1,
 		"culture": 2,
 		"cost": 40,
-		"maintenance": 1,
 		"requiredTech": "Pottery",
 		"uniques": ["[+5]% [Production] <starting from the [Renaissance era]>","Hidden when religion is disabled"]
 	},
@@ -31,8 +30,8 @@
 		"culture": 1,
 		"faith": 8,
 		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [30] per owned city",
-			"[+100]% Natural religion spread [in this city]","[+2 Science] from every [Mountain]",
-			"[+1 Faith, +2 Culture] from every [Temple] <within [2] tiles of a [Mountain]>","[+2 Food, +2 Production] from each Trade Route"],
+			"[+100]% Natural religion spread [in this city]",
+			"[+2 Faith, +2 Culture] from every [Temple] <within [2] tiles of a [Mountain]>","[+2 Food, +2 Production] from each Trade Route"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
