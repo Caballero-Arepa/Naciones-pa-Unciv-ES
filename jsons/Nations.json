@@ -3,8 +3,8 @@
     "name": "Ducado de Cundinamarca",
 	  "leaderName": "El Archiduque Arepa",
 	  "adjective": ["Cundinamarqués"],
-	  "outerColor": [206, 148, 97],
-	  "innerColor": [240, 165, 0],
+	  "outerColor": [255, 192, 105],
+	  "innerColor": [74, 64, 58],
 
 	  "startBias": ["Mountain"],
 	  "preferredVictoryType": "Cultural",
