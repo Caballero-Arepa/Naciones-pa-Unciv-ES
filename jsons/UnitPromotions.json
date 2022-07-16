@@ -2,6 +2,12 @@
 
 	{
 		"name": "Mulas de Carga",
-		"uniques": ["[+33]% Strength <when fighting in [Hill] tiles>", "[3] HP when healing", "Double movement in [Hill]"]
+		"uniques": ["[5] HP when healing", "Double movement in [Hill]"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Mounted"]
+	},
+	{
+		"name": "Sweet ability",
+		"uniques": ["[+40]% Strength <when fighting in [Fresh Water] tiles>"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Mounted"]
 	},
 ]

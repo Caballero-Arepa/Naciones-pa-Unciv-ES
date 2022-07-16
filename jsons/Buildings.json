@@ -55,7 +55,7 @@
 		"food": 3,
 		"production": 1,
 		"hurryCostModifier": 25,
-		"uniques": ["Must be on [Fresh Water]","[+1 Food] from every [Flood plains] <before discovering [Civil Service]>"],
+		"uniques": ["Must be on [Fresh Water]","All newly-trained [relevant] units [in this city] receive the [Sweet ability] promotion"],
 		"requiredTech": "The Wheel"
 	},
 //Imperio Islamico
