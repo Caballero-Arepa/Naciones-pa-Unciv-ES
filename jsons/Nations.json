@@ -17,7 +17,7 @@
 	  "declaringWar": "La cosa se puso chusca, bien chusca para ustéd. Amarrese los pantalones y pongase a rezar.",
   	"attacked": "Yo me le mido a lo que sea, porque soy el más massimo, no le tengo miedo... ¡Aiudaaaaaaa!",
   	"afterPeace": "Ja ja se te regó el chocolate caliente ensima ja ja.",
-  	"defeated": "Vamos de aquí, no te juntes con esa chusma.",
+  	"defeated": "Vamonos de aquí, no te juntes con esa chusma.",
 
   	"neutralHello": "Bueenas su mercé",
   	"hateHello": "¿Qué quiere gran hijuemadre?",
@@ -31,6 +31,37 @@
 	  "cities": ["Fusagasugá","Zipaquirá","Soacha","Chocontá","Villa Pinzón","Tocancipá","Sesquilé","Mosquera","Sasaima","Anapoima","Girardot","Ricaute",
                "Choachí","Ubaté","Machetá",]
   },
+/*  {
+    	"name": "Gran Ducado de Arepandia",
+	"leaderName": "El Archiduque Arepa",
+	"adjective": ["Arepino"],
+	"outerColor": [255, 192, 105],
+	"innerColor": [74, 64, 58],
+
+	"startBias": ["Mountain"],
+	"preferredVictoryType": "Cultural",
+//	"favoredReligion": "religio",
+
+//  	"startIntroPart1": "intro",
+//  	"startIntroPart2": "close",
+ 
+	"introduction": "Buenas su persona, ¿cómo se topa? ¿Le invito a una aguapanelita?",
+	"declaringWar": "La cosa se puso chusca, bien chusca para ustéd. Amarrese los pantalones y pongase a rezar.",
+  	"attacked": "Yo me le mido a lo que sea, porque soy el más massimo, no le tengo miedo... ¡Aiudaaaaaaa!",
+  	"afterPeace": "Ja ja se te regó el chocolate caliente ensima ja ja.",
+  	"defeated": "Vamonos de aquí, no te juntes con esa chusma.",
+
+  	"neutralHello": "Bueenas su mercé",
+  	"hateHello": "¿Qué quiere gran hijuemadre?",
+
+  	"tradeRequest": "Te ofrezco estas vainitas que tengo por acá.",
+		
+  	"uniqueName": "La Señorial de Arepas",
+  	"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-50]% maintenance on road & railroads",
+			"No Maintenance costs for improvements in [Hill] tiles"],
+
+	"cities": ["Cetral Arepa","Villa Chóclo","Puerto Boyacense","Finca Paisa","Rellenas de Sulemaida","Bogotana de Arepas","Plaza Harinapan","Villapizón","Sasaima","Ricaute","Machetá",]
+  },*/
   {
     "name": "Opawa",
 	  "leaderName": "Alejo",
@@ -113,7 +144,11 @@
       "tradeRequest": "Es mejor perder algo material por Allah que perder a Allah por algo material.",
 
       "uniqueName": "El centro de la ciencia",
-      "uniques": ["[+10]% Production when constructing [All] wonders [in all cities]","[+2 Production, +2 Food, +1 Science] from every [Mountain]"
+      "uniques": ["[+10]% Production when constructing [All] wonders [in all cities]",
+		  "[+1 Production, +1 Food] from every [Mountain]",
+		  "[+1 Science] from every [Mountain] <after discovering [Theology]>","[+1 Science] from every [Mountain] <after discovering [Education]>",
+		  "[+1 Production] from every [Mountain] <after discovering [Engineering]>","[+1 Production] from every [Mountain] <after discovering [Dynamite]>",
+		  "[+1 Food] from every [Mountain] <after discovering [Chivalry]>","[+1 Food] from every [Mountain] <after discovering [Archaeology]>"
                 ],
 
       "cities": ["La Meca","Aleppo","Damasco","Bagdad","El Cairo","Córdoba","Samarcanda","Taskent","Jartun","Palermo","Argel",]
