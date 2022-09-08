@@ -65,8 +65,8 @@
 		"uniqueTo": "Imperio Islamico",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"faith": 2,
-		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"faith": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]","[+1 Faith] <after discovering [Drama and Poetry]>"],
 		"requiredTech": "Writing"
 	},
 	{
