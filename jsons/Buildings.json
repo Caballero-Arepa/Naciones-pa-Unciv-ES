@@ -8,7 +8,7 @@
 		"culture": 2,
 		"cost": 40,
 		"requiredTech": "Pottery",
-		"uniques": ["[+5]% [Production] <starting from the [Renaissance era]>","Hidden when religion is disabled"]
+		"uniques": ["[+5]% [Production] [in this city] <starting from the [Renaissance era]>","Hidden when religion is disabled"]
 	},
 	{
 		"name": "Finca Sabanera",
