@@ -145,10 +145,10 @@
 
       "uniqueName": "El centro de la ciencia",
       "uniques": ["[+10]% Production when constructing [All] wonders [in all cities]",
-		  "[+1 Production, +1 Food] from every [Mountain]",
+		  "[+1 Production, +2 Food] from every [Mountain]",
 		  "[+1 Science] from every [Mountain] <after discovering [Theology]>","[+1 Science] from every [Mountain] <after discovering [Education]>",
 		  "[+1 Production] from every [Mountain] <after discovering [Engineering]>","[+1 Production] from every [Mountain] <after discovering [Dynamite]>",
-		  "[+1 Food] from every [Mountain] <after discovering [Chivalry]>","[+1 Food] from every [Mountain] <after discovering [Archaeology]>"
+		  "[+1 Food] from every [Mountain] <after discovering [Archaeology]>"
                 ],
 
       "cities": ["La Meca","Aleppo","Damasco","Bagdad","El Cairo","Córdoba","Samarcanda","Taskent","Jartun","Palermo","Argel",]
