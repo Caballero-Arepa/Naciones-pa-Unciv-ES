@@ -123,7 +123,9 @@
 		    "All newly-trained [Land] units [in all cities] receive the [Amphibious] promotion"
 		    "Enables embarkation for land units <starting from the [Ancient era]>"
 		    "[+10]% Production when constructing [Water] units [in all cities]"
-		    "[-5]% Strength when fighting on [Desert, Jungle] tiles"
+		    "[-5]% Strength when fighting on [Desert, Jungle] tiles",
+		    "[1] Movement point cost to disembark"
+		    "[1] Movement point cost to embark"
 
 	  //nombres de ciudades traducidas al español
 	  "cities": ["Pescado","Hielo Pescadil","Pingüineton","Pescado Congelado"],
