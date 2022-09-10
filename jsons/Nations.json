@@ -100,7 +100,7 @@
 
 	  "startBias": ["Snow", "Coast"],
 	  "preferredVictoryType": "Scientific",
-	  "favoredReligion": "Christianity",
+	  //"favoredReligion": "Christianity",
 
   	"startIntroPart1": "Somos pingüinos dotados, mostraremos nuestro poder",
   	//"startIntroPart2": "close",
