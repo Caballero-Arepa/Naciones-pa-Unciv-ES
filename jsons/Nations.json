@@ -105,7 +105,7 @@
   	"startIntroPart1": "Somos pingüinos dotados, mostraremos nuestro poder",
   	//"startIntroPart2": "close",
  
-	  "introduction": "Hola, soy 324 un gusto conocerte (lenguaje pingüino traducido al español)",
+	  "introduction": "Hola, soy el pingüino 324 un gusto conocerte (lenguaje pingüino traducido al español)",
 	  "declaringWar": "Lo siento, pero así tiene que ser, nuestra batalla será legendaria! Buena suerte",
   	"attacked": "Oh con que subestimas a los pingüinos eh? Pues sufre las consecuencias!",
   	"afterPeace": "Buena elección",
@@ -121,9 +121,9 @@
 		    "[+2 Production, +1 Food] from every [Fishing Boats] tiles [in all cities]",
 		    "All newly-trained [Land] units [in all cities] receive the [Confianza Al Enemigo] promotion",
 		    "All newly-trained [Land] units [in all cities] receive the [Amphibious] promotion"
-		    "Enables embarkation for land units"
+		    "Enables embarkation for land units <starting from the [Ancient era]>"
 		    "[+10]% Production when constructing [Water] units [in all cities]"
-		    "[-5]% Strength when fighting on [Desert, Jungle] tiles
+		    "[-5]% Strength when fighting on [Desert, Jungle] tiles"
 
 	  //nombres de ciudades traducidas al español
 	  "cities": ["Pescado","Hielo Pescadil","Pingüineton","Pescado Congelado"],
