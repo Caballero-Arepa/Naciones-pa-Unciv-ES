@@ -8,4 +8,14 @@
 		"name": "Sweet ability",
 		"uniques": ["[+40]% Strength <when fighting in [Fresh Water] tiles>"],
 	},
+	
+//Antártida
+	{
+		"name": "Arma Impermeable",
+		"uniques": ["May attack when embarked"],
+	},
+	{
+		"name": "Confianza Al Enemigo
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+	},
 ]

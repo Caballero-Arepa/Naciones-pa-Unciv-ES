@@ -25,7 +25,7 @@
   	"tradeRequest": "Te ofrezco estas vainitas que tengo por acá.",
 		
   	"uniqueName": "La Señorial de Arepas",
-  	"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-50]% maintenance on road & railroads",
+  	"uniques": ["[-25]% Culture cost of natural border growth [in all cities]","[-50]% maintenance on road & railroads",
 			"No Maintenance costs for improvements in [Hill] tiles"],
 
 	  "cities": ["Fusagasugá","Zipaquirá","Soacha","Chocontá","Villa Pinzón","Tocancipá","Sesquilé","Mosquera","Sasaima","Anapoima","Girardot","Ricaute",
@@ -57,7 +57,7 @@
   	"tradeRequest": "Te ofrezco estas vainitas que tengo por acá.",
 		
   	"uniqueName": "La Señorial de Arepas",
-  	"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-50]% maintenance on road & railroads",
+  	"uniques": ["[-25]% Culture cost of natural border growth [in all cities]","[-50]% maintenance on road & railroads",
 			"No Maintenance costs for improvements in [Hill] tiles"],
 
 	"cities": ["Cetral Arepa","Villa Chóclo","Puerto Boyacense","Finca Paisa","Rellenas de Sulemaida","Bogotana de Arepas","Plaza Harinapan","Villapizón","Sasaima","Ricaute","Machetá",]
@@ -94,30 +94,38 @@
   },
   {
     "name": "Antártida",
-	  "leaderName": "Cuek Cuëk de Antártida",
-	  "outerColor": [218, 19, 19],
+	  "leaderName": "Pingüino N°324",
+	  "outerColor": [255, 255, 255],
 	  "innerColor": [0,0,0],
 
-	  "startBias": ["Tundra", "Coast"],
+	  "startBias": ["Snow", "Coast"],
 	  "preferredVictoryType": "Scientific",
-	  "favoredReligion": "Christianity",
+	  //"favoredReligion": "Christianity",
 
-  	"startIntroPart1": "Cuek kuebeb setruebek retek (Somos pingüinos dotados, mostraremos nuestro poder)",
+  	"startIntroPart1": "Somos pingüinos dotados, mostraremos nuestro poder",
   	//"startIntroPart2": "close",
  
-	  "introduction": "eEk cuek quekrek kekk caek (Hola, soy Cuek Cuëk un gusto conocerte)",
-	  "declaringWar": "Queb rekeb kelek nelebke (Lo siento, pero así tiene que ser nuestra batalla será legendaria! Buena suerte)",
-  	"attacked": "Cakeb Kelak Nevak? Quenab rakabat pagab! (Oh con que subestimas a los pingüinos eh? Pues sufre las consecuencias!)",
-  	"afterPeace": "Cuek rekeb (Buena elección)",
-  	"defeated": "Cabeb kebreb, pekeb rebeb rabeb sebeb? (Tal vez ahora yo te subestimé a ti, que haras ahora que extinguiste a nuestra raza?)",
+	  "introduction": "Hola, soy el pingüino 324 un gusto conocerte (lenguaje pingüino traducido al español)",
+	  "declaringWar": "Lo siento, pero así tiene que ser, nuestra batalla será legendaria! Buena suerte",
+  	"attacked": "Oh con que subestimas a los pingüinos eh? Pues sufre las consecuencias!",
+  	"afterPeace": "Buena elección",
+  	"defeated": "Tal vez ahora yo te subestimé a ti, que haras ahora que extinguiste a nuestra raza?",
 
-  	"neutralHello": "eEk,¿keb sebteb? (Hola, ¿Que se te ofrece?",
-  	"hateHello": "ekeb quebre cabfor? (Que quieres carefoca)",
+  	"neutralHello": "Hola, ¿Que se te ofrece?",
+  	"hateHello": "Que quieres carefoca",
 
-  	"tradeRequest": "Queb rekeb ker? (Que te parece esta oferta?)",
+  	"tradeRequest": "Que te parece esta oferta?",
 		
   	"uniqueName": "Turbo Pesca",
-  	"uniques": ["[+2 Food] [in all cities]"],
+  	"uniques": ["[+2 Food] [in all cities]"
+		    "[+2 Production, +1 Food] from every [Fishing Boats] tiles [in all cities]",
+		    "All newly-trained [Land] units [in all cities] receive the [Confianza Al Enemigo] promotion",
+		    "All newly-trained [Land] units [in all cities] receive the [Amphibious] promotion"
+		    "Enables embarkation for land units <starting from the [Ancient era]>"
+		    "[+10]% Production when constructing [Water] units [in all cities]"
+		    "[-5]% Strength when fighting on [Desert, Jungle] tiles",
+		    "[1] Movement point cost to disembark"
+		    "[1] Movement point cost to embark"
 
 	  //nombres de ciudades traducidas al español
 	  "cities": ["Pescado","Hielo Pescadil","Pingüineton","Pescado Congelado"],
