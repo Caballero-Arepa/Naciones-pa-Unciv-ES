@@ -221,4 +221,33 @@
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
 			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"]
   },
+  {
+
+        "name": "Coahuila de Zaragoza",
+        "leaderName": "Nana Nastasić",
+        "adjective": ["Coahuilense"],
+        "outerColor": [19,180,46],
+        "innerColor": [255,255,255],
+
+        "startBias": ["Desert"],
+        "preferredVictoryType": "Domination",
+               
+//      "startIntroPart1": "",
+//      "startIntroPart2": "",
+
+        "introduction":  "Pásele pariente, bienvenido a nuestra tierra, se le antoja una caguamita?.",
+        "declaringWar": "Hermano cayó la ley, está rodeada tu casa...",
+        "attacked": "Le digo una cosa compadre, usted ya está muerto, nomás le andamos avisando.",
+        "afterPeace": "Alchile no se que poner aquí",
+        "defeated": "Valió madre compadre, aquí acaba el corrido.",
+      
+        "neutralHello": "Pasele primo.",
+        "hateHello": "¿Qué se le ofrece patrón?",
+        "tradeRequest": "Wachese padrino, aquí le traigo unos negocios.",
+             
+        "uniqueName": "Guerreros de la Dunas",
+        "uniques": ["Great General provides double combat bonus", "[+25]% Strength <when fighting in [Desert] tiles>"],
+        "cities": ["Saltillo","Torreón","Ramos Arizpe","Monclova","Piedras Negras","Parras de la Fuente","Acuña","Nueva Rosita","General Cepeda","Arteaga","Cuatrociénegas","Sabinas"]
+
+  },
 ]
