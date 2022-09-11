@@ -160,6 +160,33 @@
       "cities": ["La Meca","Aleppo","Damasco","Bagdad","El Cairo","Córdoba","Samarcanda","Taskent","Jartun","Palermo","Argel",]
   },
 {
+	"name": "Los Reinos Unificados",
+	"leaderName": "Belias",
+	"adjective": ["Maracuchos"],
+	"outerColor": [2,1,2],
+	"innerColor": [39,126,205],
+
+	"startBias": ["Hill","Avoid [Tundra]"],
+	"preferredVictoryType": "Scientific",
+/*
+	"introduction": "Que las bendiciones de Allah sean contigo.",
+	"declaringWar": "No podemos tolerar más las injusticias de su mandato, liberaremos a su pueblo en el nombre de Allah",
+	"attacked": "Debe haber una solución pacifica a este conflicto.",
+	"afterPeace": "La paz, las bendiciones y la misericordia de Allah estén contigo.",
+	"defeated": "Allahu Akbar (Allah es el Más Grande).",
+
+	"neutralHello": "Que las bendiciones de Allah sean contigo.",
+	"hateHello": "Que las bendiciones de Allah sean contigo.",
+
+	"tradeRequest": "Es mejor perder algo material por Allah que perder a Allah por algo material.",
+*/
+	"uniqueName": "La Gran Unificación",
+	"uniques": ["[-100]% maintenance costs","[+20]% Strength <vs [Barbarian] units>","No movement cost to pillage",
+		"[+100]% City-State Influence degradation","Resting point for Influence with City-States is increased by [-60]"],
+
+	"cities": ["Zulia","Esequibo","Maracaibo"]
+  },
+{
     "name": "Sacro Imperio Ruso",
       "leaderName": "Sergey Taboritsky",
       "adjective": ["Ruso"],
