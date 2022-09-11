@@ -125,9 +125,7 @@
 		    "[+10]% Production when constructing [Water] units [in all cities]"
 		    "[-5]% Strength when fighting on [Desert, Jungle] tiles",
 		    "[1] Movement point cost to disembark"
-		    "[1] Movement point cost to embark"
-
-//nombres de ciudades traducidas al español
+		    "[1] Movement point cost to embark"],
 	  "cities": ["Pescado","Hielo Pescadil","Pingüineton","Pescado Congelado"],
   },
 {
