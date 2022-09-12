@@ -168,7 +168,7 @@
 	"outerColor": [2,1,2],
 	"innerColor": [39,126,205],
 
-	"startBias": ["Hill","Avoid [Tundra]"],
+	"startBias": ["Hill"],
 	"preferredVictoryType": "Scientific",
 /*
 	"introduction": "Que las bendiciones de Allah sean contigo.",
