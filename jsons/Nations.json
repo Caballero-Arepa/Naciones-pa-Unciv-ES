@@ -183,7 +183,7 @@
 	"tradeRequest": "Es mejor perder algo material por Allah que perder a Allah por algo material.",
 */
 	"uniqueName": "La Gran Unificación",
-	"uniques": ["[-100]% maintenance costs","[+20]% Strength <vs [Barbarian] units>","No movement cost to pillage",
+	"uniques": ["[-100]% maintenance costs","[+30]% Strength <vs [Barbarian] units>","No movement cost to pillage",
 		"[+100]% City-State Influence degradation","Resting point for Influence with City-States is increased by [-60]"],
 
 	"cities": ["Zulia","Esequibo","Maracaibo"]

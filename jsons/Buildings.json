@@ -156,7 +156,7 @@
 		"maintenance": 3,
 		"isNationalWonder": true,
 		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [30] per owned city",
-			   "All newly-trained [Land] units [in this city] receive the [Quick Study] promotion",
+			   "All newly-trained [Relevant] units [in this city] receive the [Quick Study] promotion",
 			   "[+15]% Science [in all cities] <when at war>"],
 		"requiredTech": "Horseback Riding"
 	},
@@ -164,7 +164,7 @@
 		"name": "Jardines Comunistas",
 		"replaces": "Garden",
 		"uniqueTo": "Los Reinos Unificados",
-		"uniques": ["[+5]% Food [in this city]","[+1 Food] from every [Great Improvement]","[+1 Food] from every [Campamento Militar]"],
+		"uniques": ["[+10]% Food [in this city]","[+1 Food] from every [Great Improvement]","[+1 Food] from every [Campamento Militar]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Theology"
