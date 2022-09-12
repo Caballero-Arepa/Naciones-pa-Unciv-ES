@@ -169,4 +169,27 @@
 		"maintenance": 1,
 		"requiredTech": "Theology"
 	},
+        //Coahuila de Zaragoza
+        {
+                "name": "Museo del Desierto",
+		"isNationalWonder": true,
+                "cost": 300,
+                "requiredTech": "Archaeology",
+                "science": 2,
+                "culture": 4,                
+                "uniques": ["[+1 Science] from every [Desert] tiles [in this city]"],
+                "uniqueTo": "Coahuila de Zaragoza",
+    },
+    {
+		"name": "Jaripeo",
+		"replaces": "Circus",
+                "cost": 100,
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Cattle","Horses"],
+		"requiredTech": "Trapping",
+		"maintenance": 1,
+		"happiness": 3,	
+                "uniqueTo": "Coahuila de Zaragoza",
+		"uniques": ["All newly-trained [Mounted] units [in this city] receive the [Shock I] promotion"],
+    },
 ]
