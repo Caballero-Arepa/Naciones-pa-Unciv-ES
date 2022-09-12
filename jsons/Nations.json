@@ -8,7 +8,7 @@
 
 	  "startBias": ["Mountain"],
 	  "preferredVictoryType": "Cultural",
-//	  "favoredReligion": "religio",
+	"favoredReligion": "Arepas Sagradas",
 
 //  	"startIntroPart1": "intro",
 //  	"startIntroPart2": "close",
@@ -31,7 +31,7 @@
 	  "cities": ["Fusagasugá","Zipaquirá","Soacha","Chocontá","Villa Pinzón","Tocancipá","Sesquilé","Mosquera","Sasaima","Anapoima","Girardot","Ricaute",
                "Choachí","Ubaté","Machetá",]
   },
-/*  {
+  {
     	"name": "Gran Ducado de Arepandia",
 	"leaderName": "El Archiduque Arepa",
 	"adjective": ["Arepino"],
@@ -42,25 +42,26 @@
 	"preferredVictoryType": "Cultural",
 	"favoredReligion": "Arepas Sagradas",
 
-//  	"startIntroPart1": "intro",
-//  	"startIntroPart2": "close",
+  	"startIntroPart1": "Bienvenido sea su mercé, llegó la hora de demostrar nuestra valía ante todo el mundo.\nLa orgullosa Conf. Harina no nos súpo valorar. Su arrogancia, su soberbia y desprecio por nosotros nos hizo independizarnos. Basta yá de su desdén, las Arepas unidas jamás serán vencidas. El precioso Ducado se alzará como resplandeciente flor al amanecer, y las grandes preguntas del día nó se resolveran mediante hierro y sangre, pero con Diplomacia y Honor!",
+  	"startIntroPart2": "Es la hora su persona. ¡Que comienze, nuestra historia!",
  
-	"introduction": "Buenas su mercé, ¿cómo se topa? ¿Le invito a una aguapanelita?",
-	"declaringWar": "",
-  	"attacked": ["Yo me le mido a lo que sea, porque soy el más massimo, no le tengo miedo... ¡Aiudaaaaaaa!",],
-  	"afterPeace": "Ja ja se le regó el chocolate ensima ja ja.",
-  	"defeated": "",
+	"introduction": ["Buenas su mercé, ¿cómo se topa? ¿Le invito a una aguapanelita?","Saludos señores de proteína. Gusto en conocerlos."],
+	"declaringWar": ["Insolénte líder. Se ha buscado esto ustéd mismo.","Sentirás el SABOR de la derrota."],
+  	"attacked": ["Yo me le mido a lo que sea, porque soy el más massimo, no le tengo miedo... ¡Aiudaaaaaaa!","¡Nuestra integridad nó será sometida a los colmillos de su persona!"],
+  	"afterPeace": ["Ja ja se le regó el chocolate ensima ja ja.","Ay, ese bailecito me despelucó.","Sin honor no hay gloria. ¿Ha conservado el suyo?"],
+  	"defeated": ["Nuestro reino no será gobernado por ustéd. Primero la quema que ustéd.","La cruda realidad, por más candela, no se puede cocer."],
 
-  	"neutralHello": "Bueenas su mercé",
-  	"hateHello": "¿Qué quiere gran hijuemadre?",
+  	"neutralHello": ["Bueenas su mercé","Quiubo"],
+  	"hateHello": ["¿Qué quiere gran hijuemadre?","¡ej, nojoda, ¿otra véz este man?!"]
 
-  	"tradeRequest": "Te ofrezco estas vainitas que tengo por acá.",
+  	"tradeRequest": ["Delicias el reino, no las puede rechazar.","Te ofrezco estas vainitas que tengo por acá.",],
 		
   	"uniqueName": "La Señorial de Arepas",
-  	"uniques": ["[-35]% Culture cost of natural border growth [in all cities]","[-75]% maintenance on road & railroads"],
+  	"uniques": ["[-35]% Culture cost of natural border growth [in all cities]","[-75]% maintenance on road & railroads",
+		   "[+1 Culture, +1 Production, +1 Science] [in all cities] <with a garrison>"],
 
 	"cities": ["Central Arepa","Villa Chóclo","Cundinamarca","Puerto Boyacense","Finca Paisa","Rellenas de Sulemaida","Bogotana de Arepas","Plaza Harinapan","Villapizón","Machetá"]
-  },*/
+  },
   {
     "name": "Opawa",
 	  "leaderName": "Alejo",
@@ -169,18 +170,18 @@
 
 	"startBias": ["Hill"],
 	"preferredVictoryType": "Scientific",
-/*
-	"introduction": "Que las bendiciones de Allah sean contigo.",
-	"declaringWar": "No podemos tolerar más las injusticias de su mandato, liberaremos a su pueblo en el nombre de Allah",
-	"attacked": "Debe haber una solución pacifica a este conflicto.",
-	"afterPeace": "La paz, las bendiciones y la misericordia de Allah estén contigo.",
-	"defeated": "Allahu Akbar (Allah es el Más Grande).",
 
-	"neutralHello": "Que las bendiciones de Allah sean contigo.",
-	"hateHello": "Que las bendiciones de Allah sean contigo.",
+	"introduction": "hola",
+	"declaringWar": "te declaro la guerra",
+	"attacked": "La marca de un gran gobernante no és su habilidad para hacer la guerra, sino para conseguir la páz.",
+	"afterPeace": "paz",
+	"defeated": "Las ruedas de la justicia giran lentamente, pero giran bien.",
 
-	"tradeRequest": "Es mejor perder algo material por Allah que perder a Allah por algo material.",
-*/
+	"neutralHello": "hola",
+	"hateHello": "feo",
+
+	"tradeRequest": "dame dame",
+
 	"uniqueName": "La Gran Unificación",
 	"uniques": ["[-100]% maintenance costs","[+30]% Strength <vs [Barbarian] units>","No movement cost to pillage",
 		"[+100]% City-State Influence degradation","Resting point for Influence with City-States is increased by [-60]"],
