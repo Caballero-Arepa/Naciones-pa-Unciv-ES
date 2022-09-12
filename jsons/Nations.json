@@ -247,7 +247,7 @@
              
         "uniqueName": "Guerreros de la Dunas",
         "uniques": ["Great General provides double combat bonus", "[+25]% Strength <when fighting in [Desert] tiles>"],
-        "cities": ["Saltillo","Torreón","Ramos Arizpe","Monclova","Piedras Negras","Parras de la Fuente","Acuña","Nueva Rosita","General Cepeda","Arteaga","Cuatrociénegas","Sabinas"]
+        "cities": ["Saltillo","Torreón","Ramos Arizpe","Monclova","Piedras Negras","Parras de la Fuente","Acuña","Nueva Rosita","General Cepeda","Arteaga","Cuatrociénegas","Sabinas"],
 
   },
 ]
