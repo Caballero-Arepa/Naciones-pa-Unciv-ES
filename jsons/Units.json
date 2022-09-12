@@ -57,7 +57,7 @@
 	{
 		"name": "Toboso",
 		"unitType": "Archery",
-                "replaces": "Archer"
+                "replaces": "Archer",
 		"movement": 2,
 		"strength": 8,
 		"rangedStrength": 8,
@@ -67,20 +67,20 @@
                 "promotions": ["[Toboso] ability"],
                 "uniqueTo": "Coahuila de Zaragoza",
 		"upgradesTo": "Composite Bowman",
-		"attackSound": "arrow"
+		"attackSound": "arrow",
 	},
 	{
 		"name": "Constitucionalista",
 		"unitType": "Gunpowder",
-                "replaces": "Rifleman"
+                "replaces": "Rifleman",
 		"movement": 2,
 		"strength": 34,
 		"cost": 225,
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
-                "uniqueTo": "Coahuila de Zaragoza"
+                "uniqueTo": "Coahuila de Zaragoza",
                 "uniques": ["[+15%] Strength <when adjacent to a [Land] unit>"],
 		"upgradesTo": "Great War Infantry",
-		"attackSound": "shot"
+		"attackSound": "shot",
 	},
 ]
