@@ -45,16 +45,16 @@
   	"startIntroPart1": "Bienvenido sea su mercé, llegó la hora de demostrar nuestra valía ante todo el mundo.\nLa orgullosa Conf. Harina no nos súpo valorar. Su arrogancia, su soberbia y desprecio por nosotros nos hizo independizarnos. Basta yá de su desdén, las Arepas unidas jamás serán vencidas. El precioso Ducado se alzará como resplandeciente flor al amanecer, y las grandes preguntas del día nó se resolveran mediante hierro y sangre, pero con Diplomacia y Honor!",
   	"startIntroPart2": "Es la hora su persona. ¡Que comienze, nuestra historia!",
  
-	"introduction": ["Buenas su mercé, ¿cómo se topa? ¿Le invito a una aguapanelita?","Saludos señores de proteína. Gusto en conocerlos."],
-	"declaringWar": ["Insolénte líder. Se ha buscado esto ustéd mismo.","Sentirás el SABOR de la derrota."],
-  	"attacked": ["Yo me le mido a lo que sea, porque soy el más massimo, no le tengo miedo... ¡Aiudaaaaaaa!","¡Nuestra integridad nó será sometida a los colmillos de su persona!"],
-  	"afterPeace": ["Ja ja se le regó el chocolate ensima ja ja.","Ay, ese bailecito me despelucó.","Sin honor no hay gloria. ¿Ha conservado el suyo?"],
-  	"defeated": ["Nuestro reino no será gobernado por ustéd. Primero la quema que ustéd.","La cruda realidad, por más candela, no se puede cocer."],
+	"introduction": "Buenas su mercé, ¿cómo se topa? ¿Le invito a una aguapanelita?",
+	"declaringWar": "Sentirás el SABOR de la derrota.",
+  	"attacked": "¡Nuestra integridad nó será sometida a los colmillos de su persona!",
+  	"afterPeace": "Sin honor no hay gloria. ¿Ha conservado el suyo?",
+  	"defeated": "La cruda realidad, por más candela, no se puede cocer.",
 
   	"neutralHello": ["Bueenas su mercé","Quiubo"],
   	"hateHello": ["¿Qué quiere gran hijuemadre?","¡ej, nojoda, ¿otra véz este man?!"]
 
-  	"tradeRequest": ["Delicias el reino, no las puede rechazar.","Te ofrezco estas vainitas que tengo por acá.",],
+  	"tradeRequest": "Te ofrezco estas vainitas que tengo por acá.",
 		
   	"uniqueName": "La Señorial de Arepas",
   	"uniques": ["[-35]% Culture cost of natural border growth [in all cities]","[-75]% maintenance on road & railroads",
