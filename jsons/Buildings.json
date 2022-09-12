@@ -156,7 +156,7 @@
 		"maintenance": 3,
 		"isNationalWonder": true,
 		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [30] per owned city",
-			   "All newly-trained [relevant] units [in this city] receive the [Quick Study] promotion",
+			   "All newly-trained [non-air] units [in this city] receive the [Quick Study] promotion",
 			   "[+15]% [Science] [in all cities] <when at war>"],
 		"requiredTech": "Horseback Riding"
 	},
