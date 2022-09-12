@@ -51,8 +51,8 @@
   	"afterPeace": "Sin honor no hay gloria. ¿Ha conservado el suyo?",
   	"defeated": "La cruda realidad, por más candela, no se puede cocer.",
 
-  	"neutralHello": ["Bueenas su mercé","Quiubo"],
-  	"hateHello": ["¿Qué quiere gran hijuemadre?","¡ej, nojoda, ¿otra véz este man?!"]
+  	"neutralHello": "Quiubo",
+  	"hateHello": "¡ej, nojoda, ¿otra véz este man?!",
 
   	"tradeRequest": "Te ofrezco estas vainitas que tengo por acá.",
 		
