@@ -35,6 +35,7 @@
 //Antártida
 	{
 		"name": "Explorador Pingüino",
+		"uniqueTo": "Antártida",
 		"unitType": "Scout",
 		"replaces": "Scout",
 		"movement": 2,
@@ -47,6 +48,7 @@
 	},
 	{
 		"name": "Grupo de pescadores",
+		"uniqueTo": "Antártida",
 		"unitType": "Civilian Water",
 		"movement": 4,
 		"cost": 30,
@@ -54,6 +56,7 @@
 		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources", "Uncapturable",
 			    "Will not be displayed in civilopedia"]
 	},
+	//Zaragoza
 	{
 		"name": "Toboso",
 		"unitType": "Archery",
