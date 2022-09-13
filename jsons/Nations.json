@@ -119,7 +119,7 @@
   	"uniqueName": "Turbo Pesca",
   	"uniques": ["[+2 Food] [in all cities]"
 		    "[+2 Production, +1 Food] from every [Fishing Boats] tiles [in all cities]",
-		    "All newly-trained [Land] units [in all cities] receive the [Confianza Al Enemigo] promotion",
+		    "All newly-trained [Land] units [in all cities] receive the [Subestimación] promotion",
 		    "All newly-trained [Land] units [in all cities] receive the [Amphibious] promotion",
 		    "Enables embarkation for land units <starting from the [Ancient era]>",
 		    "[+10]% Production when constructing [Water] units [in all cities]",
