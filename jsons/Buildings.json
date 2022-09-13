@@ -36,7 +36,7 @@
 		"isNationalWonder": true
 	},
 	{
-		"name": "Fábrica de Ruanas",
+		"name": "Fábrica de Ruanas", //Artesanos de Arepas
 		"replaces": "Shrine",
 		"uniqueTo": "Gran Ducado de Arepandia",
 		"faith": 1,
@@ -44,6 +44,19 @@
 		"cost": 40,
 		"requiredTech": "Pottery",
 		"uniques": ["[+5]% [Production] [in this city] <starting from the [Renaissance era]>","Hidden when religion is disabled"]
+	},
+	{
+		"name": "Gran Distrito de Pailas",
+		"replaces": "National Epic",
+		"uniqueTo": "Gran Ducado de Arepandia",
+		"cost": 125,
+		"maintenance": 3,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["[+1 Food, +1 Production] from every [Great Improvement]",
+		"All newly-trained [Land] units [in this city] receive the [Mulas de Carga] promotion","Requires a [Monument] in all cities",
+		"[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
+		"requiredTech": "Machinery"
 	},
 //Opawa
 	{
