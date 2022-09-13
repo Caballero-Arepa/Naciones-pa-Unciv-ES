@@ -47,9 +47,9 @@
  
 	"introduction": "Buenas su mercé, ¿cómo se topa? ¿Le invito a una aguapanelita?",
 	"declaringWar": "Sentirás el SABOR de la derrota.",
-  	"attacked": "¡Nuestra integridad nó será sometida a los colmillos de su persona!",
+  	"attacked": "Yo me le mido a lo que sea, porque soy el más massimo, no le tengo miedo... ¡Aiudaaaaaaa!",
   	"afterPeace": "Sin honor no hay gloria. ¿Ha conservado el suyo?",
-  	"defeated": "La cruda realidad, por más candela, no se puede cocer.",
+  	"defeated": "Ay, ese bailesito me despelucó.",
 
   	"neutralHello": "Quiubo",
   	"hateHello": "¡ej, nojoda, ¿otra véz este man?!",
@@ -58,7 +58,7 @@
 		
   	"uniqueName": "La Señorial de Arepas",
   	"uniques": ["[-35]% Culture cost of natural border growth [in all cities]","[-75]% maintenance on road & railroads",
-		   "[+1 Culture, +1 Production, +1 Science] [in all cities] <with a garrison>"],
+		   "[+1 Culture, +1 Production, +1 Science] [in all cities] <with a garrison> <after adopting [Oligarchy]> <while the empire is happy>"],
 
 	"cities": ["Central Arepa","Villa Chóclo","Cundinamarca","Puerto Boyacense","Finca Paisa","Rellenas de Sulemaida","Bogotana de Arepas","Plaza Harinapan","Villapizón","Machetá"]
   },
