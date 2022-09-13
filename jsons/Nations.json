@@ -94,18 +94,18 @@
   },
   {
     "name": "Antártida",
-	  "leaderName": "Pingüino N°324",
+	  "leaderName": "Playxs",
 	  "outerColor": [255, 255, 255],
 	  "innerColor": [0,0,0],
 
 	  "startBias": ["Snow", "Coast"],
 	  "preferredVictoryType": "Scientific",
-	  //"favoredReligion": "Christianity",
+	  "favoredReligion": "Santos Pescados",
 
-  	"startIntroPart1": "Somos pingüinos dotados, mostraremos nuestro poder",
+  	"startIntroPart1": "Nos revolucionaremos contra los humanos, creen que no hacemos nada pero ya las van a pagar por lo que nos hicieron",
   	//"startIntroPart2": "close",
  
-	  "introduction": "Hola, soy el pingüino 324 un gusto conocerte (lenguaje pingüino traducido al español)",
+	  "introduction": "Hola, soy Playxs un gusto conocerte (lenguaje pingüino traducido al español)",
 	  "declaringWar": "Lo siento, pero así tiene que ser, nuestra batalla será legendaria! Buena suerte",
   	"attacked": "Oh con que subestimas a los pingüinos eh? Pues sufre las consecuencias!",
   	"afterPeace": "Buena elección",
