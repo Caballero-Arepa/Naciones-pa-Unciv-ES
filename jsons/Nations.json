@@ -187,7 +187,7 @@
 	"tradeRequest": "Esto sería beneficioso para nuestras naciones.",
 
 	"uniqueName": "La Gran Unificación",
-	"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Gold]","[+30]% Strength <vs [Barbarian] units>","No movement cost to pillage",
+	"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Gold]","[-100]% maintenance costs","[+30]% Strength <vs [Barbarian] units>","No movement cost to pillage",
 		"[+100]% City-State Influence degradation","Resting point for Influence with City-States is increased by [-60]"],
 
 	"cities": ["Amana","Honoris","Zulia","Esequibo","Maracaibo"]
