@@ -98,8 +98,8 @@
   {
     "name": "Antártida",
 	  "leaderName": "Playxs",
-	  "outerColor": [255, 255, 255],
-	  "innerColor": [0,0,0],
+	  "outerColor": [0, 0, 0],
+	  "innerColor": [255,255,255],
 
 	  "startBias": ["Snow", "Coast"],
 	  "preferredVictoryType": "Scientific",
