@@ -36,7 +36,7 @@
 		"isNationalWonder": true
 	},
 	{
-		"name": "Fábrica de Ruanas", //Artesanos de Arepas
+		"name": "Fábrica de Ruanas", //Gremio de Artesanos
 		"replaces": "Shrine",
 		"uniqueTo": "Gran Ducado de Arepandia",
 		"faith": 1,
