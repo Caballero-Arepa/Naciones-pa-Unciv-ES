@@ -168,29 +168,29 @@
 {
 	"name": "Los Reinos Unificados",
 	"leaderName": "Belias",
-	"adjective": ["Maracuchos"],
+	"adjective": ["Hubinitano"],
 	"outerColor": [2,1,2],
 	"innerColor": [39,126,205],
 
 	"startBias": ["Coast","Hill"],
-	"preferredVictoryType": "Scientific",
+	"preferredVictoryType": "Domination",
 
-	"introduction": "hola",
-	"declaringWar": "te declaro la guerra",
+	"introduction": "Es un gusto conocerlo dirigente, espero poder trabajar junto a usted por el bien de nuestras naciones.",
+	"declaringWar": "Te has convertido en un peligro para mi gente, ríndete o tendré que obligarte a hacerlo.",
 	"attacked": "La marca de un gran gobernante no és su habilidad para hacer la guerra, sino para conseguir la páz.",
-	"afterPeace": "paz",
+	"afterPeace": "¡Celebren! Pues hoy te has convertido en un mejor gobernante.",
 	"defeated": "Las ruedas de la justicia giran lentamente, pero giran bien.",
 
-	"neutralHello": "hola",
-	"hateHello": "feo",
+	"neutralHello": "Bienvenido a nuestra ilustre nación.",
+	"hateHello": "¿Buscas la paz? Eres más sabio de lo que creía.",
 
-	"tradeRequest": "dame dame",
+	"tradeRequest": "Esto sería beneficioso para nuestras naciones.",
 
 	"uniqueName": "La Gran Unificación",
-	"uniques": ["[-100]% maintenance costs","[+30]% Strength <vs [Barbarian] units>","No movement cost to pillage",
+	"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Gold]","[+30]% Strength <vs [Barbarian] units>","No movement cost to pillage",
 		"[+100]% City-State Influence degradation","Resting point for Influence with City-States is increased by [-60]"],
 
-	"cities": ["Zulia","Esequibo","Maracaibo"]
+	"cities": ["Amana","Honoris","Zulia","Esequibo","Maracaibo"]
   },
 //bismark
 {
