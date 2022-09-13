@@ -127,7 +127,8 @@
 		"cost": 225,
 		"requiredTech": "Industrialization",
 		"obsoleteTech": "Ballistics",
-                "uniques": ["May enter foreign tiles without open borders"],
+                "uniques": ["May enter foreign tiles without open borders","No defensive terrain bonus", "Can move after attacking","Can pass through impassable tiles",
+			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
 		"attackSound": "bombing",
 	},
 	
