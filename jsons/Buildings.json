@@ -182,7 +182,7 @@
 		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [30] per owned city",
 			   "All newly-trained [non-air] units [in this city] receive the [Quick Study] promotion",
 			   "[+15]% [Science] [in all cities] <when at war>"],
-		"requiredTech": "Horseback Riding",
+		"requiredTech": "Philosophy",
 		"quote": "El arte de la estrategia es de importancia vital para el país. Es el terreno de la vida y la muerte, el camino a la seguridad o la ruina. 'Sun Tzu'"
 	},
 	{
