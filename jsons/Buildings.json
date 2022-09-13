@@ -168,7 +168,8 @@
 		"happiness": 2,
 		"hurryCostModifier": 25,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]"],
-		"requiredTech": "Construction"
+		"requiredTech": "Construction",
+		"quote": "De la realización de cada uno, depende el destino de todos. 'Alejandro Magno'"
 	},
 	{
 		"name": "Gran Academia de Estrategas",
@@ -181,7 +182,8 @@
 		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [30] per owned city",
 			   "All newly-trained [non-air] units [in this city] receive the [Quick Study] promotion",
 			   "[+15]% [Science] [in all cities] <when at war>"],
-		"requiredTech": "Horseback Riding"
+		"requiredTech": "Horseback Riding",
+		"quote": "El arte de la estrategia es de importancia vital para el país. Es el terreno de la vida y la muerte, el camino a la seguridad o la ruina. 'Sun Tzu'"
 	},
 	{
 		"name": "Jardines Comunales",
@@ -190,7 +192,8 @@
 		"uniques": ["[+10]% [Food] [in this city]","[+1 Food] from every [Great Improvement]","[+1 Food] from every [Campamento Militar]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"requiredTech": "Theology"
+		"requiredTech": "Theology",
+		"quote": "Los habitantes constituyen la base de un país, los alimentos son la felicidad del pueblo. El príncipe debe respetar este hecho y ser sobrio y austero en sus gastos públicos. 'Sun Tzu'"
 	},
         //Coahuila de Zaragoza
         {
