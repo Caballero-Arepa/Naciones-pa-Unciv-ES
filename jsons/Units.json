@@ -125,7 +125,6 @@
 		"cost": 225,
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
-                "uniqueTo": "Coahuila de Zaragoza",
                 "uniques": ["[+15%] Strength <when adjacent to a [Land] unit>"],
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot",
