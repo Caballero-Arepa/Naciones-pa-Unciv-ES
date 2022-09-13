@@ -168,7 +168,7 @@
 	"outerColor": [2,1,2],
 	"innerColor": [39,126,205],
 
-	"startBias": ["Hill"],
+	"startBias": ["Coast","Hill"],
 	"preferredVictoryType": "Scientific",
 
 	"introduction": "hola",
