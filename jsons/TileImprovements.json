@@ -25,6 +25,7 @@
 		"techRequired": "Guilds",
 		"uniques": ["[+1 Production] <after discovering [Architecture]>",
 			    "Gives a defensive bonus of [5]%", "Gives a defensive bonus of [10]% <after discovering [Architecture]>",
+			    "[+1 Science] <after adopting [Military Tradition]>","[+1 Culture] <after adopting [Free Thought]>"
 			    "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "T"
 	},
