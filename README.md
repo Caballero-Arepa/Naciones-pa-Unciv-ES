@@ -1,4 +1,4 @@
-Este mod contiene naciones personalizadas para los miembros del servidor de discord Unciv ES.
+Este mod contiene naciones personalizadas para los miembros del servidor de discord, Unciv ES, la comunidad de Unciv Hispana..
 
 Las naciones son:
 - Caballero Arepa - Gran Ducado de Arepandia
