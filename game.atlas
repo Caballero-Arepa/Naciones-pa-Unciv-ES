@@ -1,61 +1,138 @@
 
 game.png
-size: 1024, 512
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Sweet
+BuildingIcons/Arenas de Batalla
   rotate: false
-  xy: 357, 14
+  xy: 4, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gran Academia de Estrategas
+  rotate: false
+  xy: 565, 280
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+BuildingIcons/Jardines Comunales
+  rotate: false
+  xy: 1663, 380
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sweet
+  rotate: false
+  xy: 773, 280
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Campamento Militar
+  rotate: false
+  xy: 1339, 380
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 LeaderIcons/Al-Ma'mun
   rotate: false
-  xy: 4, 4
+  xy: 4, 62
   size: 345, 418
   orig: 345, 418
   offset: 0, 0
   index: -1
 LeaderIcons/IMG_20220709
   rotate: false
-  xy: 4, 4
+  xy: 4, 62
   size: 345, 418
   orig: 345, 418
   offset: 0, 0
   index: 183015
+LeaderIcons/Belias
+  rotate: false
+  xy: 981, 139
+  size: 170, 164
+  orig: 170, 164
+  offset: 0, 0
+  index: -1
 LeaderIcons/El Archiduque Arepa
   rotate: false
-  xy: 565, 50
-  size: 164, 164
-  orig: 164, 164
+  xy: 1166, 317
+  size: 165, 163
+  orig: 165, 163
+  offset: 0, 0
+  index: -1
+LeaderIcons/Playxs
+  rotate: false
+  xy: 981, 311
+  size: 177, 169
+  orig: 177, 169
   offset: 0, 0
   index: -1
 NationIcons/Ducado de Cundinamarca
   rotate: false
-  xy: 357, 222
+  xy: 357, 72
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Gran Ducado de Arepandia
+  rotate: false
+  xy: 357, 72
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Imperio Islamico
   rotate: false
-  xy: 773, 322
+  xy: 1555, 380
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Los Reinos Unificados
+  rotate: false
+  xy: 981, 81
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
 NationIcons/Opawa
   rotate: false
-  xy: 881, 322
+  xy: 1771, 380
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+ReligionIcons/Arepas Sagradas
+  rotate: false
+  xy: 357, 280
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ReligionIcons/Humanismo
+  rotate: false
+  xy: 1447, 380
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Santos Pescados
+  rotate: false
+  xy: 565, 72
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Sweet ability
   rotate: false
-  xy: 565, 222
+  xy: 773, 72
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
