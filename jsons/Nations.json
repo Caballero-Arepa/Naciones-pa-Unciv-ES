@@ -1,4 +1,5 @@
 [
+//archiduque
   {
     "name": "Ducado de Cundinamarca",
 	  "leaderName": "El Archiduque Arepa",
@@ -62,6 +63,7 @@
 
 	"cities": ["Central Arepa","Villa Chóclo","Cundinamarca","Puerto Boyacense","Finca Paisa","Rellenas de Sulemaida","Bogotana de Arepas","Plaza Harinapan","Villapizón","Machetá"]
   },
+//alejoi
   {
     "name": "Opawa",
 	  "leaderName": "Alejo",
@@ -92,6 +94,7 @@
 
 	  "cities": ["Vitala", "Oe", "Ñansu", "Raca"]
   },
+//Playxs
   {
     "name": "Antártida",
 	  "leaderName": "Playxs",
@@ -130,6 +133,7 @@
 		    "[1] Movement point cost to embark"],
 	  "cities": ["Pescado","Hielo Pescadil","Pingüineton","Pescado Congelado"],
   },
+//belias
 {
     "name": "Imperio Islamico",
       "leaderName": "Al-Ma'mun",
@@ -188,6 +192,7 @@
 
 	"cities": ["Zulia","Esequibo","Maracaibo"]
   },
+//bismark
 {
     "name": "Sacro Imperio Ruso",
       "leaderName": "Sergey Taboritsky",
@@ -221,6 +226,7 @@
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
 			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"]
   },
+//nana
   {
 
         "name": "Coahuila de Zaragoza",
