@@ -132,7 +132,64 @@
 		"maintenance": 1,
 		"uniques": ["[10]% Production when constructing [Water] units [in this city]"
 			    "Destroyed when the city is captured"
-			   "All newly-trained [land] units [in this city] receive the [Arma Impermeable] promotion"],
+			   "All newly-trained [Land] units [in this city] receive the [Arma Impermeable] promotion"],
 		"requiredTech": "Machinery"
 	},
+	
+	//Reinos Unificados
+	{
+		"name": "Arenas de Batalla",
+		"replaces": "Colosseum",
+		"uniqueTo": "Los Reinos Unificados",
+		"maintenance": 1,
+		"happiness": 2,
+		"hurryCostModifier": 25,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]"],
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Gran Academia de Estrategas",
+		"replaces": "Circus Maximus",
+		"uniqueTo": "Los Reinos Unificados",
+		"cost": 125,
+		"happiness": 2,
+		"maintenance": 3,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [30] per owned city",
+			   "All newly-trained [non-air] units [in this city] receive the [Quick Study] promotion",
+			   "[+15]% [Science] [in all cities] <when at war>"],
+		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Jardines Comunales",
+		"replaces": "Garden",
+		"uniqueTo": "Los Reinos Unificados",
+		"uniques": ["[+10]% [Food] [in this city]","[+1 Food] from every [Great Improvement]","[+1 Food] from every [Campamento Militar]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Theology"
+	},
+        //Coahuila de Zaragoza
+        {
+                "name": "Museo del Desierto",
+		"isNationalWonder": true,
+                "cost": 300,
+                "requiredTech": "Archaeology",
+                "science": 2,
+                "culture": 4,                
+                "uniques": ["[+1 Science] from every [Desert] tiles [in this city]"],
+                "uniqueTo": "Coahuila de Zaragoza",
+    },
+    {
+		"name": "Jaripeo",
+		"replaces": "Circus",
+                "cost": 100,
+		"hurryCostModifier": 25,
+		"requiredNearbyImprovedResources": ["Cattle","Horses"],
+		"requiredTech": "Trapping",
+		"maintenance": 1,
+		"happiness": 3,	
+                "uniqueTo": "Coahuila de Zaragoza",
+		"uniques": ["All newly-trained [Mounted] units [in this city] receive the [Shock I] promotion"],
+    },
 ]

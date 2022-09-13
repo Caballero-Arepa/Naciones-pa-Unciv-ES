@@ -15,4 +15,18 @@
 			"[+2 Culture] for each adjacent [Oasis]"],
 		"shortcutKey": "F"
 	},
+	{
+		"name": "Campamento Militar",
+		"replaces": "Trading post",
+		"uniqueTo": "Los Reinos Unificados",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
+		"production": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Guilds",
+		"uniques": ["[+1 Production] <after discovering [Architecture]>",
+			    "Gives a defensive bonus of [5]%", "Gives a defensive bonus of [10]% <after discovering [Architecture]>",
+			    "[+1 Science] <after adopting [Military Tradition]>","[+1 Culture] <after adopting [Free Thought]>"
+			    "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "T"
+	},
 ]

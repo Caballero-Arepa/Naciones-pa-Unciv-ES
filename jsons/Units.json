@@ -35,6 +35,7 @@
 //Antártida
 	{
 		"name": "Explorador Pingüino",
+		"uniqueTo": "Antártida",
 		"unitType": "Scout",
 		"replaces": "Scout",
 		"movement": 2,
@@ -47,11 +48,42 @@
 	},
 	{
 		"name": "Grupo de pescadores",
+		"uniqueTo": "Antártida",
 		"unitType": "Civilian Water",
 		"movement": 4,
 		"cost": 30,
 		"requiredTech": "Agriculture",
 		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources", "Uncapturable",
 			    "Will not be displayed in civilopedia"]
+	},
+	//Zaragoza
+	{
+		"name": "Toboso",
+		"unitType": "Archery",
+                "replaces": "Archer",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 8,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Construction",
+                "promotions": ["[Toboso] ability"],
+                "uniqueTo": "Coahuila de Zaragoza",
+		"upgradesTo": "Composite Bowman",
+		"attackSound": "arrow",
+	},
+	{
+		"name": "Constitucionalista",
+		"unitType": "Gunpowder",
+                "replaces": "Rifleman",
+		"movement": 2,
+		"strength": 34,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+                "uniqueTo": "Coahuila de Zaragoza",
+                "uniques": ["[+15%] Strength <when adjacent to a [Land] unit>"],
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot",
 	},
 ]

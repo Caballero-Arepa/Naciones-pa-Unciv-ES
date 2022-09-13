@@ -18,4 +18,9 @@
 		"name": "Confianza Al Enemigo"
 		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
 	},
+//Coahuila de Zaragoza
+	{
+		"name": "[Toboso] ability",
+		"uniques": ["[+20%] Strength <vs [Mounted] units>"],
+	},
 ]
