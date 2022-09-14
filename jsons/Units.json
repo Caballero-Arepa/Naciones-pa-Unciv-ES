@@ -98,7 +98,7 @@
 		"cost": 20,
 		"obsoleteTech": "Chivalry",
 		"upgradesTo": "Caballero de la Orden Arepa",
-		"uniques": ["Can see over obstacles","[+55]% Strenght <when defending>",
+		"uniques": ["Can see over obstacles","[+55]% Strength <when defending>",
 			    "Never appears as a Barbarian unit","Will not be displayed in civilopedia"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
@@ -114,7 +114,7 @@
 		"obsoleteTech": "Industrialization",
 		"upgradesTo": "Dirigible",
 		"uniques": ["Prevents spreading of religion to the city it is next to",
-			"Can move after attacking","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+			"[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
 	},
 	{
