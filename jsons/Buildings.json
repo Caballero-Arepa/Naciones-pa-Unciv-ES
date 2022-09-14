@@ -43,7 +43,17 @@
 		"culture": 2,
 		"cost": 40,
 		"requiredTech": "Pottery",
-		"uniques": ["[+5]% [Production] [in this city] <starting from the [Renaissance era]>","Hidden when religion is disabled"]
+		"uniques": ["Unbuildable","Cannot be purchased","Will not be displayed in Civilopedia","[+5]% [Production] [in this city] <starting from the [Renaissance era]>","Hidden when religion is disabled"]
+	},
+	{
+		"name": "Gremio de Artesanos",
+		"replaces": "Shrine",
+		"uniqueTo": "Gran Ducado de Arepandia",
+		"faith": 1,
+		"culture": 2,
+		"cost": 40,
+		"requiredTech": "Pottery",
+		"uniques": ["[+5]% [Production] [in this city] <starting from the [Renaissance era]>","Only available <in cities without a [Fábrica de Ruanas]>","Hidden when religion is disabled"]
 	},
 	{
 		"name": "Gran Distrito de Pailas",
