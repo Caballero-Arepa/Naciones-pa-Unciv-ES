@@ -5,6 +5,10 @@
 		"uniques": ["[5] HP when healing", "Double movement in [Hill]"],
 	},
 	{
+		"name": "Arepa Vitalizante",
+		"uniques": ["[5] HP when healing", "Double movement in [Hill]"],
+	},
+	{
 		"name": "Sweet ability",
 		"uniques": ["[+40]% Strength <when fighting in [Fresh Water] tiles>"],
 	},
