@@ -64,7 +64,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["[+1 Food, +1 Production] from every [Great Improvement]",
-		"All newly-trained [Land] units [in this city] receive the [Mulas de Carga] promotion","Requires a [Monument] in all cities",
+		"All newly-trained [Land] units [in this city] receive the [Arepa Vitalizante] promotion","Requires a [Monument] in all cities",
 		"[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
 		"requiredTech": "Machinery"
 	},
