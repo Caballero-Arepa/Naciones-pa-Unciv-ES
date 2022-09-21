@@ -172,6 +172,7 @@
 	"adjective": ["Hubinitano"],
 	"outerColor": [2,1,2],
 	"innerColor": [39,126,205],
+	"style": "Belias",
 
 	"startBias": ["Coast","Hill"],
 	"preferredVictoryType": "Domination",
