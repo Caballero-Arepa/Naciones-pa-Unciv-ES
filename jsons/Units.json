@@ -130,7 +130,9 @@
 		"obsoleteTech": "Ballistics",
                 "uniques": ["[-60]% Strength <before discovering [Flight]>","May enter foreign tiles without open borders",
 			"No defensive terrain bonus", "Can move after attacking","Can pass through impassable tiles",
-			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit"],
+			"All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities", "Never appears as a Barbarian unit",
+			"Normal vision when embarked", "Defense bonus when embarked", "May attack when embarked", "[1] Movement point cost to embark"
+			"[1] Movement point cost to disembark"],
 		"attackSound": "bombing",
 	},
 	
