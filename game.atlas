@@ -172,198 +172,261 @@ TileSets/FantasyHex/Units/Cavalry-Arepino
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Composite Bowman-Arepino
+TileSets/FantasyHex/Units/Cavalry-Belias
   rotate: false
   xy: 1036, 1046
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Crossbowman-Arepino
+TileSets/FantasyHex/Units/Composite Bowman-Arepino
   rotate: false
   xy: 1144, 1154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Dirigible
+TileSets/FantasyHex/Units/Composite Bowman-Belias
   rotate: false
   xy: 684, 232
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Gatling Gun-Arepino
+TileSets/FantasyHex/Units/Crossbowman-Arepino
   rotate: false
   xy: 792, 340
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Giant Death Robot-Arepino
+TileSets/FantasyHex/Units/Crossbowman-Belias
   rotate: false
-  xy: 1805, 1727
-  size: 32, 31
-  orig: 32, 31
+  xy: 1805, 1730
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Great Musician-Arepino
+TileSets/FantasyHex/Units/Dirigible
   rotate: false
   xy: 1863, 1788
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Great War Infantry-Arepino
+TileSets/FantasyHex/Units/Gatling Gun-Arepino
   rotate: false
   xy: 112, 18
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Helicopter Gunship-Arepino
+TileSets/FantasyHex/Units/Giant Death Robot-Arepino
   rotate: false
-  xy: 170, 76
-  size: 32, 28
-  orig: 32, 28
+  xy: 170, 73
+  size: 32, 31
+  orig: 32, 31
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Horseman-Arepino
+TileSets/FantasyHex/Units/Great Musician-Arepino
   rotate: false
   xy: 308, 132
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Infantry-Arepino
+TileSets/FantasyHex/Units/Great War Infantry-Arepino
   rotate: false
   xy: 836, 820
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Knight-Arepino
+TileSets/FantasyHex/Units/Helicopter Gunship-Arepino
   rotate: false
   xy: 876, 856
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Longswordsman-Arepino
+TileSets/FantasyHex/Units/Horseman-Arepino
   rotate: false
   xy: 944, 928
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Machine Gun-Arepino
+TileSets/FantasyHex/Units/Horseman-Belias
   rotate: false
   xy: 984, 964
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Mapeador
+TileSets/FantasyHex/Units/Infantry-Arepino
   rotate: false
   xy: 1244, 1426
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Marine-Arepino
+TileSets/FantasyHex/Units/Knight-Arepino
   rotate: false
   xy: 1284, 1462
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Missionary-Arepino
+TileSets/FantasyHex/Units/Knight-Belias
   rotate: false
   xy: 1036, 1010
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Musketman-Arepino
+TileSets/FantasyHex/Units/Longswordsman-Arepino
   rotate: false
   xy: 1076, 1046
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Paratrooper-Arepino
+TileSets/FantasyHex/Units/Longswordsman-Belias
   rotate: false
   xy: 1144, 1118
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Pikeman-Arepino
+TileSets/FantasyHex/Units/Machine Gun-Arepino
   rotate: false
   xy: 1184, 1154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Rifleman-Arepino
+TileSets/FantasyHex/Units/Mapeador
   rotate: false
   xy: 684, 196
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Settler-Arepino
+TileSets/FantasyHex/Units/Marine-Arepino
   rotate: false
-  xy: 724, 231
-  size: 32, 29
-  orig: 32, 29
+  xy: 724, 232
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Spearman-Arepino
+TileSets/FantasyHex/Units/Missionary-Arepino
   rotate: false
   xy: 792, 304
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Swordsman-Arepino
+TileSets/FantasyHex/Units/Musketman-Arepino
   rotate: false
-  xy: 1805, 1691
+  xy: 1805, 1694
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Tank-Arepino
+TileSets/FantasyHex/Units/Musketman-Belias
   rotate: false
   xy: 1903, 1788
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Warrior-Arepino
+TileSets/FantasyHex/Units/Paratrooper-Arepino
   rotate: false
   xy: 210, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Warrior-Belias
+TileSets/FantasyHex/Units/Pikeman-Arepino
   rotate: false
   xy: 348, 132
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rifleman-Arepino
+  rotate: false
+  xy: 836, 784
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Rifleman-Belias
+  rotate: false
+  xy: 876, 820
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Settler-Arepino
+  rotate: false
+  xy: 1244, 1389
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spearman-Arepino
+  rotate: false
+  xy: 944, 892
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swordsman-Arepino
+  rotate: false
+  xy: 916, 856
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Swordsman-Belias
+  rotate: false
+  xy: 984, 928
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tank-Arepino
+  rotate: false
+  xy: 1284, 1426
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-Arepino
+  rotate: false
+  xy: 1076, 1010
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Warrior-Belias
+  rotate: false
+  xy: 1144, 1082
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-belias
   rotate: false
-  xy: 348, 132
+  xy: 1144, 1082
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Arepino
   rotate: false
-  xy: 836, 784
+  xy: 1116, 1046
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
