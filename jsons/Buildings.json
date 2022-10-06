@@ -1,50 +1,5 @@
 [
-//Cundinamarca
-	{
-		"name": "Fábrica de Ruanas",
-		"replaces": "Shrine",
-		"uniqueTo": "Ducado de Cundinamarca",
-		"faith": 1,
-		"culture": 2,
-		"cost": 40,
-		"requiredTech": "Pottery",
-		"uniques": ["[+5]% [Production] [in this city] <starting from the [Renaissance era]>","Hidden when religion is disabled"]
-	},
-	{
-		"name": "Finca Sabanera",
-		"replaces": "National Epic",
-		"uniqueTo": "Ducado de Cundinamarca",
-		"cost": 125,
-		"culture": 1,
-		"isNationalWonder": true,
-		"uniques": ["[+1 Production] from [Sheep] tiles [in this city]",
-		"All newly-trained [Land] units [in this city] receive the [Mulas de Carga] promotion","Requires a [Monument] in all cities",
-		"[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city"],
-		"requiredTech": "Drama and Poetry"
-	},
-	{
-		"name": "Monserrate",
-		"replaces": "Grand Temple",
-		"uniqueTo": "Ducado de Cundinamarca",
-		"cost": 125,
-		"culture": 1,
-		"faith": 8,
-		"uniques": ["Requires a [Temple] in all cities", "Cost increases by [30] per owned city",
-			"[+100]% Natural religion spread [in this city]",
-			"[+2 Faith, +2 Culture] from every [Temple] <within [2] tiles of a [Mountain]>","[+2 Food, +2 Production] from each Trade Route"],
-		"requiredTech": "Theology",
-		"isNationalWonder": true
-	},
-	{
-		"name": "Fábrica de Ruanas", //Gremio de Artesanos
-		"replaces": "Shrine",
-		"uniqueTo": "Gran Ducado de Arepandia",
-		"faith": 1,
-		"culture": 2,
-		"cost": 40,
-		"requiredTech": "Pottery",
-		"uniques": ["Unbuildable","Cannot be purchased","Will not be displayed in Civilopedia","[+5]% [Production] [in this city] <starting from the [Renaissance era]>","Hidden when religion is disabled"]
-	},
+//Gran Ducao de Arepandia
 	{
 		"name": "Gremio de Artesanos",
 		"replaces": "Shrine",
