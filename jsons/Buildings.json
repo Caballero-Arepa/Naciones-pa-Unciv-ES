@@ -8,7 +8,7 @@
 		"culture": 2,
 		"cost": 40,
 		"requiredTech": "Pottery",
-		"uniques": ["[+5]% [Production] [in this city] <starting from the [Renaissance era]>","Only available <in cities without a [Fábrica de Ruanas]>","Hidden when religion is disabled"]
+		"uniques": ["[+5]% [Science] [in this city] <starting from the [Renaissance era]>"]
 	},
 	{
 		"name": "Gran Distrito de Pailas",
