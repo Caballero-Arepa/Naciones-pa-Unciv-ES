@@ -127,7 +127,6 @@
 		"range": 1,
 		"cost": 300,
 		"requiredTech": "Industrialization",
-		"upgradesTo": "Dirigible Blindado",
                 "uniques": ["[-23]% Strength <vs [Siege] units> <when defending>","[-10]% Strength <vs [Ranged] units> <when defending>",
 			    "[-55]% Strength <vs [Anti-Aircraft Gun] units> <when defending>","[+10]% Strength <vs cities> <when attacking>",
 			    "[-15]% Strength <vs [Fighter] units> <when defending>","[+15]% Strength <vs [Bomber] units> <when defending>"
