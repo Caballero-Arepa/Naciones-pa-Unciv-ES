@@ -126,26 +126,27 @@
 	
 	//Reinos Unificados
 	{
-		"name": "Arenas de Batalla",
-		"replaces": "Colosseum",
+		"name": "Training Center",
+		"replaces": "Barracks",
 		"uniqueTo": "Los Reinos Unificados",
 		"maintenance": 1,
-		"happiness": 2,
+		"cost": 70,
 		"hurryCostModifier": 25,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]"],
-		"requiredTech": "Construction",
+		"requiredTech": "Bronze Working",
 		"quote": "De la realización de cada uno, depende el destino de todos. 'Alejandro Magno'"
 	},
 	{
 		"name": "Gran Academia de Estrategas",
-		"replaces": "Circus Maximus",
+		"replaces": "Heroic Epic",
 		"uniqueTo": "Los Reinos Unificados",
 		"cost": 125,
-		"happiness": 2,
+		"culture": 1,
 		"maintenance": 3,
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Colosseum] in all cities", "Cost increases by [30] per owned city",
-			   "All newly-trained [non-air] units [in this city] receive the [Quick Study] promotion",
+		"uniques": ["Requires a [Barracks] in all cities", "Cost increases by [30] per owned city",
+			   "[All] units gain the [Quick Study] promotion",
+	                   "[All] units gain the [Morale] promotion",
 			   "[+15]% [Science] [in all cities] <when at war>"],
 		"requiredTech": "Philosophy",
 		"quote": "El arte de la estrategia es de importancia vital para el país. Es el terreno de la vida y la muerte, el camino a la seguridad o la ruina. 'Sun Tzu'"
