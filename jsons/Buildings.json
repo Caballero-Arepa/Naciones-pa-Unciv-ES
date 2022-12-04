@@ -132,7 +132,7 @@
 		"maintenance": 1,
 		"cost": 70,
 		"hurryCostModifier": 25,
-		"uniques": ["New [Military] units start with [15] Experience [in this city]"],
+		"uniques": ["New [Military] units start with [30] Experience [in this city]"],
 		"requiredTech": "Bronze Working",
 		"quote": "De la realización de cada uno, depende el destino de todos. 'Alejandro Magno'"
 	},
