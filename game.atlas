@@ -242,6 +242,13 @@ TileSets/FantasyHex/Units/Dirigible
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/EmbarkedUnit-Dirigible
+  rotate: false
+  xy: 836, 820
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Gatling Gun-Arepino
   rotate: false
   xy: 876, 856
