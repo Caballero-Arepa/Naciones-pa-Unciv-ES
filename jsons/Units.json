@@ -96,11 +96,9 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 16,
-		"obsoleteTech": "Chivalry",
+		"obsoleteTech": "Industrialization",
 		"upgradesTo": "Caballero de la Orden Arepa",
-		"uniques": ["May enter foreign tiles without open borders",
-			    "Never appears as a Barbarian unit"],
-		"promotions": ["Ignore terrain cost","Scouting I"],
+		"promotions": ["Expedición Botánica"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -113,7 +111,7 @@
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
-		"uniques": ["Takes your religion over the one in their birth city","Can [Remove Foreign religions from your own cities] [5] times",
+		"uniques": ["Prevents spreading of religion to the city it is next to",
 			"Religious Unit","Never appears as a Barbarian unit"],
 		"attackSound": "metalhit"
 	},

@@ -1,13 +1,5 @@
 [
-
-	{
-		"name": "Mulas de Carga",
-		"uniques": ["[5] HP when healing", "Double movement in [Hill]"],
-	},
-	{
-		"name": "Arepa Vitalizante",
-		"uniques": ["[5] HP when healing", "Double movement in [Hill]"],
-	},
+//Opawa
 	{
 		"name": "Sweet ability",
 		"uniques": ["[+40]% Strength <when fighting in [Fresh Water] tiles>"],
@@ -27,125 +19,174 @@
 		"name": "[Toboso] ability",
 		"uniques": ["[+20%] Strength <vs [Mounted] units>"],
 	},
-//Dirigible
+//Arepandia
+	{
+		"name": "Expedición Botánica",
+		"uniques": ["May enter foreign tiles without open borders",
+				"[+1] Sight <in [Hill] tiles>","[+1] Movement <during a Golden Age>"],
+	},
+	{
+		"name": "Arepa Vitalizante",
+		"uniques": ["[5] HP when healing", "Double movement in [Hill]"],
+	},
+	//Dirigible
+	{
+		"name": "Reparación en Bombas",
+		"uniques": ["Heal this unit by [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
+		"unitTypes": ["Dirigible"],
+        "row": 1,
+        "column": 0
+    },
 	{
 		"name": "Torretas de Defensa I",
 		"uniques": ["[+10]% Strength <vs [Air] units> <when defending>"],
-		"unitTypes": ["Dirigible"]
+		"unitTypes": ["Dirigible"],
+        "column": 1,
+        "row": 1
 	},
 		{
 			"name": "Torretas de Defensa II",
 			"uniques": ["[+10]% Strength <vs [Air] units> <when defending>"],
 			"prerequisites": ["Torretas de Defensa I"],
-			"unitTypes": ["Dirigible"]
+			"unitTypes": ["Dirigible"],
+        "column": 1,
+        "row": 2
 		},
 		{
 			"name": "Torretas de Defensa III",
 			"uniques": ["[+10]% Strength <vs [Air] units> <when defending>"],
 			"prerequisites": ["Torretas de Defensa II"],
-			"unitTypes": ["Dirigible"]
+			"unitTypes": ["Dirigible"],
+        "column": 1,
+        "row": 3
 		},
 	{
 		"name": "Nave de Suministros I",
-		"uniques": ["All adjacent units heal [5] HP when healing"],
-		"unitTypes": ["Dirigible"]
+		"uniques": ["All adjacent units heal [5] HP when healing","Unit will heal every turn, even if it performs an action"],
+		"unitTypes": ["Dirigible"],
+        "column": 6,
+        "row": 1
 	},
 		{
 			"name": "Nave de Suministros II",
-			"uniques": ["All adjacent units heal [5] HP when healing <during a Golden Age>"],
+			"uniques": ["[+15%] Strength <when below [75] HP>","All adjacent units heal [5] HP when healing <on foreign continents>"],
 			"prerequisites": ["Nave de Suministros I"],
-			"unitTypes": ["Dirigible"]
+			"unitTypes": ["Dirigible"],
+        "column": 6,
+        "row": 2
 		},
 		{
 			"name": "Nave de Suministros III",
 			"uniques": ["[+15]% Strength bonus for [Wounded] units within [1] tiles","All adjacent units heal [5] HP when healing <during a Golden Age>"],
 			"prerequisites": ["Nave de Suministros II"],
-			"unitTypes": ["Dirigible"]
+			"unitTypes": ["Dirigible"],
+        "column": 6,
+        "row": 3
 		},
 	{
 		"name": "Protecciones pal Gas",
 		"uniques": ["[+5]% Strength <when defending> <vs [Ranged] units>"],
-		"unitTypes": ["Dirigible"]
+		"unitTypes": ["Dirigible"],
+        "column": 4,
+        "row": 1
 	},
 		{
 			"name": "Combustible Extra",
 			"uniques": ["[+1] Movement"],
-			"prerequisites": ["Protecciones pal Gas", "Torretas de Defensa II"],
-			"unitTypes": ["Dirigible"]
+			"prerequisites": ["Protecciones pal Gas"],
+			"unitTypes": ["Dirigible"],
+			"column": 4,
+			"row": 2
 		},
 			{
 				"name": "Hangar",
 				"uniques": ["Can carry [1] [Fighter] units","Only available <for units without [Más Bombas]>",
 					"Only available <for units without [Bombas de Precisión]>"],
 				"prerequisites": ["Combustible Extra"],
-				"unitTypes": ["Dirigible"]
+				"unitTypes": ["Dirigible"],
+        "column": 3,
+        "row": 3
 			},
 				{
 					"name": "Hangar Expandido",
 					"uniques": ["Can carry [1] extra [Fighter] units"],
 					"prerequisites": ["Hangar"],
-					"unitTypes": ["Dirigible"]
+					"unitTypes": ["Dirigible"],
+        "column": 3,
+        "row": 4
 				},
 			{
 				"name": "Más Bombas",
 				"uniques": ["[1] additional attacks per turn","Only available <for units without [Hangar]>",
 					"Only available <for units without [Bombas de Precisión]>"],
 				"prerequisites": ["Combustible Extra"],
-				"unitTypes": ["Dirigible"]
+				"unitTypes": ["Dirigible"],
+        "column": 5,
+        "row": 3
 			},
 				{
 					"name": "Bombardeo de Carpeta",
 					"uniques": ["Destroys tile improvements when attacking"],
 					"prerequisites": ["Más Bombas"],
-					"unitTypes": ["Dirigible"]
+					"unitTypes": ["Dirigible"],
+        "column": 5,
+        "row": 4
 				},
 	{
 		"name": "Camuflaje Aéreo",
 		"uniques": ["Invisible to non-adjacent units"],
 		"prerequisites": ["Torretas de Defensa III"],
-		"unitTypes": ["Dirigible"]
+		"unitTypes": ["Dirigible"],
+        "column": 1,
+        "row": 4
 	},
 		{
 			"name": "Presurización de Cabinas",
 			"uniques": ["[+10]% Strength <vs [Siege] units> <when defending>","Only available <after discovering [Radar]>"],
 			"prerequisites": ["Camuflaje Aéreo"],
-			"unitTypes": ["Dirigible"]
+			"unitTypes": ["Dirigible"],
+        "column": 0,
+        "row": 5
 		},
 		{
 			"name": "Bombas de Precisión",
-			"uniques": ["[+25]% Strength <when attacking>","Only available <for units without [Más Bombas]>"
+			"uniques": ["[+25]% Strength <when attacking>",
 			"Only available <after discovering [Ballistics]>"],
 			"prerequisites": ["Camuflaje Aéreo"],
-			"unitTypes": ["Dirigible"]
+			"unitTypes": ["Dirigible"],
+        "column": 2,
+        "row": 5
 		},
 			{
 				"name": "Arsenal Balístico I",
 				"uniques": ["[+20]% chance to intercept air attacks","Only available <after discovering [Rocketry]>"],
 				"prerequisites": ["Bombas de Precisión"],
-				"unitTypes": ["Dirigible"]
+				"unitTypes": ["Dirigible"],
+        "column": 2,
+        "row": 6
 			},
 			{
 				"name": "Arsenal Balístico II",
 				"uniques": ["Can carry [3] [Missile] units"],
 				"prerequisites": ["Arsenal Balístico I"],
-				"unitTypes": ["Dirigible"]
+				"unitTypes": ["Dirigible"],
+        "column": 2,
+        "row": 7
 			},
 	{
 		"name": "Reactor Nuclear",
 		"uniques": ["[+1] Movement","Only available <after discovering [Nuclear Fission]>"],
 		"prerequisites": ["Combustible Extra"],
-		"unitTypes": ["Dirigible"]
-	},
-	{
-		"name": "Kit de Reparaciones",
-		"uniques": ["Unit will heal every turn, even if it performs an action"],
-		"prerequisites": ["Nave de Suministros II"],
-		"unitTypes": ["Dirigible"]
+		"unitTypes": ["Dirigible"],
+        "column": 4,
+        "row": 3
 	},
 	{
 		"name": "Radar",
 		"uniques": ["Can see invisible [All] units","Only available <after discovering [Radar]>"],
 		"prerequisites": ["Presurización de Cabinas"],
-		"unitTypes": ["Dirigible"]
+		"unitTypes": ["Dirigible"],
+        "column": 0,
+        "row": 6
 	},
 ]
