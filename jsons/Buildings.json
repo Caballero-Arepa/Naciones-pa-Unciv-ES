@@ -154,7 +154,7 @@
 		"name": "Jardines Comunales",
 		"replaces": "Garden",
 		"uniqueTo": "Los Reinos Unificados",
-		"uniques": ["[+10]% [Food] [in this city]","[+1 Food] from every [Great Improvement]","[+1 Food] from every [Campamento Militar] tiles [in this city]"],
+		"uniques": ["[+10]% [Food] [in this city]","[+1 Food] from every [Great Improvement] tiles [in this city]","[+1 Food] from every [Campamento Militar] tiles [in this city]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Theology",
