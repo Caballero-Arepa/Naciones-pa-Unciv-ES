@@ -25,7 +25,7 @@
 	},
 //Opawa
 	{
-		"name": "Stele",
+		"name": "Estele",
 		"replaces": "Monument",
 		"uniqueTo": "Opawa",
 		"culture": 2,
@@ -154,7 +154,7 @@
 		"name": "Jardines Comunales",
 		"replaces": "Garden",
 		"uniqueTo": "Los Reinos Unificados",
-		"uniques": ["[+10]% [Food] [in this city]","[+1 Food] from every [Great Improvement] tiles [in this city]","[+1 Food] from every [Campamento Militar] tiles [in this city]"],
+		"uniques": ["[+10]% [Food] [in this city]","[+1 Food] from [Great Improvement] tiles [in this city]","[+1 Food] from [Campamento Militar] tiles [in this city]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"requiredTech": "Theology",
@@ -168,7 +168,7 @@
                 "requiredTech": "Archaeology",
                 "science": 2,
                 "culture": 4,                
-                "uniques": ["[+1 Science] from every [Desert] tiles [in this city]"],
+                "uniques": ["[+1 Science] from [Desert] tiles [in this city]"],
                 "uniqueTo": "Coahuila de Zaragoza",
     },
     {
